@@ -653,3 +653,17 @@
 2026-04-17 05:14:17,773 - INFO - Spectator API unavailable or player not in game
 2026-04-17 05:16:22,822 - ERROR - API key expired or insufficient permissions
 2026-04-17 05:16:22,823 - INFO - Spectator API unavailable or player not in game
+2026-04-17 05:18:25,385 - ERROR - API key expired or insufficient permissions
+2026-04-17 05:18:25,386 - INFO - Spectator API unavailable or player not in game
+2026-04-17 05:20:27,950 - ERROR - API key expired or insufficient permissions
+2026-04-17 05:20:27,951 - INFO - Spectator API unavailable or player not in game
+2026-04-17 05:22:31,668 - ERROR - API key expired or insufficient permissions
+2026-04-17 05:22:31,670 - INFO - Spectator API unavailable or player not in game
+2026-04-17 05:23:28,677 - INFO - Configuration loaded from file
+2026-04-17 05:23:28,677 - WARNING - Using default Riot API key - please update bot_config.ini with a valid key
+2026-04-17 05:23:30,522 - INFO - Successfully logged onto Twitch WS: ireliaig99
+2026-04-17 05:23:30,643 - INFO - Successfully retrieved PUUID for DontTalkToHumans#RPG
+2026-04-17 05:23:31,923 - ERROR - API key expired or insufficient permissions
+2026-04-17 05:23:31,924 - INFO - Spectator API unavailable or player not in game
+2026-04-17 05:24:34,226 - ERROR - API key expired or insufficient permissions
+2026-04-17 05:24:34,227 - INFO - Spectator API unavailable or player not in game

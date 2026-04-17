@@ -29,7 +29,37 @@ config = configparser.ConfigParser()
 config_file = 'bot_config.ini'
 
 def load_config():
-    """Load configuration from file or create default"""
+    """Load configuration from environment variables or file or create default"""
+    # Try environment variables first (for Railway deployment)
+    riot_api_key = os.getenv('RIOT_API_KEY')
+    game_name = os.getenv('GAME_NAME')
+    tag_line = os.getenv('TAG_LINE')
+    region = os.getenv('REGION', 'europe')
+    twitch_token = os.getenv('TWITCH_TOKEN')
+    channel = os.getenv('TWITCH_CHANNEL')
+    sleep_in_game = os.getenv('SLEEP_IN_GAME', '25')
+    sleep_out_game = os.getenv('SLEEP_OUT_GAME', '120')
+    
+    if riot_api_key and game_name and tag_line and twitch_token and channel:
+        # Use environment variables
+        config.add_section('RIOT')
+        config.set('RIOT', 'api_key', riot_api_key)
+        config.set('RIOT', 'game_name', game_name)
+        config.set('RIOT', 'tag_line', tag_line)
+        config.set('RIOT', 'region', region)
+
+        config.add_section('TWITCH')
+        config.set('TWITCH', 'token', twitch_token)
+        config.set('TWITCH', 'channel', channel)
+
+        config.add_section('BOT')
+        config.set('BOT', 'sleep_in_game', sleep_in_game)
+        config.set('BOT', 'sleep_out_game', sleep_out_game)
+        
+        logger.info("Configuration loaded from environment variables")
+        return
+    
+    # Fallback to file
     if os.path.exists(config_file):
         config.read(config_file)
         logger.info("Configuration loaded from file")
