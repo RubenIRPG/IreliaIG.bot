@@ -1,12 +1,2705 @@
 {
-  "matches": [],
-  "last_updated": 0,
-  "ranked_stats": {
-    "wins": 0,
-    "losses": 0
-  },
-  "excluded_matches": [
-    "EUW1_7821985126"
+  "matches": [
+    {
+      "match_id": "EUW1_7821985126",
+      "result": "L",
+      "timestamp": 1776302579418
+    },
+    {
+      "match_id": "EUW1_7821981463",
+      "result": "L",
+      "timestamp": 1776300880228
+    },
+    {
+      "match_id": "EUW1_7821958925",
+      "result": "L",
+      "timestamp": 1776297853146
+    },
+    {
+      "match_id": "EUW1_7818123822",
+      "result": "L",
+      "timestamp": 1775995689361
+    },
+    {
+      "match_id": "EUW1_7818077182",
+      "result": "W",
+      "timestamp": 1775993033299
+    },
+    {
+      "match_id": "EUW1_7818031330",
+      "result": "L",
+      "timestamp": 1775989952000
+    },
+    {
+      "match_id": "EUW1_7818003636",
+      "result": "L",
+      "timestamp": 1775987163923
+    },
+    {
+      "match_id": "EUW1_7817968847",
+      "result": "W",
+      "timestamp": 1775984087203
+    },
+    {
+      "match_id": "EUW1_7817949614",
+      "result": "L",
+      "timestamp": 1775981316404
+    },
+    {
+      "match_id": "EUW1_7817930861",
+      "result": "L",
+      "timestamp": 1775978310262
+    },
+    {
+      "match_id": "EUW1_7817923079",
+      "result": "L",
+      "timestamp": 1775977174269
+    },
+    {
+      "match_id": "EUW1_7817920743",
+      "result": "W",
+      "timestamp": 1775975025882
+    },
+    {
+      "match_id": "EUW1_7817909865",
+      "result": "L",
+      "timestamp": 1775970866669
+    },
+    {
+      "match_id": "EUW1_7817903888",
+      "result": "L",
+      "timestamp": 1775968092103
+    },
+    {
+      "match_id": "EUW1_7817900994",
+      "result": "L",
+      "timestamp": 1775966160573
+    },
+    {
+      "match_id": "EUW1_7817894110",
+      "result": "W",
+      "timestamp": 1775964282126
+    },
+    {
+      "match_id": "EUW1_7817892835",
+      "result": "L",
+      "timestamp": 1775962652153
+    },
+    {
+      "match_id": "EUW1_7817867397",
+      "result": "L",
+      "timestamp": 1775957784877
+    },
+    {
+      "match_id": "EUW1_7817853406",
+      "result": "W",
+      "timestamp": 1775955520053
+    },
+    {
+      "match_id": "EUW1_7816379268",
+      "result": "W",
+      "timestamp": 1775849348659
+    },
+    {
+      "match_id": "EUW1_7816337660",
+      "result": "W",
+      "timestamp": 1775847273855
+    },
+    {
+      "match_id": "EUW1_7816294871",
+      "result": "L",
+      "timestamp": 1775845425182
+    },
+    {
+      "match_id": "EUW1_7816096577",
+      "result": "W",
+      "timestamp": 1775834829553
+    },
+    {
+      "match_id": "EUW1_7816053934",
+      "result": "L",
+      "timestamp": 1775832702395
+    },
+    {
+      "match_id": "EUW1_7815835989",
+      "result": "W",
+      "timestamp": 1775816497034
+    },
+    {
+      "match_id": "EUW1_7815815135",
+      "result": "W",
+      "timestamp": 1775814513760
+    },
+    {
+      "match_id": "EUW1_7815801052",
+      "result": "L",
+      "timestamp": 1775812717697
+    },
+    {
+      "match_id": "EUW1_7815790487",
+      "result": "W",
+      "timestamp": 1775810828841
+    },
+    {
+      "match_id": "EUW1_7815768306",
+      "result": "W",
+      "timestamp": 1775808801388
+    },
+    {
+      "match_id": "EUW1_7815754420",
+      "result": "W",
+      "timestamp": 1775806971709
+    },
+    {
+      "match_id": "EUW1_7815747751",
+      "result": "W",
+      "timestamp": 1775804139258
+    },
+    {
+      "match_id": "EUW1_7815106565",
+      "result": "L",
+      "timestamp": 1775750074335
+    },
+    {
+      "match_id": "EUW1_7814906616",
+      "result": "L",
+      "timestamp": 1775735073919
+    },
+    {
+      "match_id": "EUW1_7814881500",
+      "result": "L",
+      "timestamp": 1775732702019
+    },
+    {
+      "match_id": "EUW1_7814834946",
+      "result": "L",
+      "timestamp": 1775727623960
+    },
+    {
+      "match_id": "EUW1_7814824600",
+      "result": "W",
+      "timestamp": 1775725853689
+    },
+    {
+      "match_id": "EUW1_7814807119",
+      "result": "W",
+      "timestamp": 1775723692917
+    },
+    {
+      "match_id": "EUW1_7814797752",
+      "result": "W",
+      "timestamp": 1775721345826
+    },
+    {
+      "match_id": "EUW1_7814789814",
+      "result": "L",
+      "timestamp": 1775719490542
+    },
+    {
+      "match_id": "EUW1_7814778172",
+      "result": "L",
+      "timestamp": 1775717296664
+    },
+    {
+      "match_id": "EUW1_7814776534",
+      "result": "L",
+      "timestamp": 1775714825241
+    },
+    {
+      "match_id": "EUW1_7814755593",
+      "result": "L",
+      "timestamp": 1775703885476
+    },
+    {
+      "match_id": "EUW1_7814743107",
+      "result": "L",
+      "timestamp": 1775701087264
+    },
+    {
+      "match_id": "EUW1_7814734264",
+      "result": "W",
+      "timestamp": 1775698832105
+    },
+    {
+      "match_id": "EUW1_7814734776",
+      "result": "L",
+      "timestamp": 1775697595887
+    },
+    {
+      "match_id": "EUW1_7814719254",
+      "result": "W",
+      "timestamp": 1775695017909
+    },
+    {
+      "match_id": "EUW1_7814712491",
+      "result": "W",
+      "timestamp": 1775693396205
+    },
+    {
+      "match_id": "EUW1_7813861550",
+      "result": "L",
+      "timestamp": 1775633092443
+    },
+    {
+      "match_id": "EUW1_7813857823",
+      "result": "L",
+      "timestamp": 1775632125129
+    },
+    {
+      "match_id": "EUW1_7813846238",
+      "result": "W",
+      "timestamp": 1775629942280
+    },
+    {
+      "match_id": "EUW1_7813849460",
+      "result": "L",
+      "timestamp": 1775627748863
+    },
+    {
+      "match_id": "EUW1_7813839070",
+      "result": "W",
+      "timestamp": 1775625521749
+    },
+    {
+      "match_id": "EUW1_7813836640",
+      "result": "L",
+      "timestamp": 1775622405439
+    },
+    {
+      "match_id": "EUW1_7813828204",
+      "result": "L",
+      "timestamp": 1775620400653
+    },
+    {
+      "match_id": "EUW1_7813828500",
+      "result": "W",
+      "timestamp": 1775617111644
+    },
+    {
+      "match_id": "EUW1_7813814071",
+      "result": "W",
+      "timestamp": 1775614472875
+    },
+    {
+      "match_id": "EUW1_7813809858",
+      "result": "L",
+      "timestamp": 1775611877476
+    },
+    {
+      "match_id": "EUW1_7813780855",
+      "result": "W",
+      "timestamp": 1775606867328
+    },
+    {
+      "match_id": "EUW1_7813769574",
+      "result": "L",
+      "timestamp": 1775605370474
+    },
+    {
+      "match_id": "EUW1_7813739358",
+      "result": "W",
+      "timestamp": 1775603017069
+    },
+    {
+      "match_id": "EUW1_7813693978",
+      "result": "L",
+      "timestamp": 1775599764742
+    },
+    {
+      "match_id": "EUW1_7813661100",
+      "result": "L",
+      "timestamp": 1775598026120
+    },
+    {
+      "match_id": "EUW1_7813594211",
+      "result": "L",
+      "timestamp": 1775595029268
+    },
+    {
+      "match_id": "EUW1_7813543712",
+      "result": "W",
+      "timestamp": 1775592618925
+    },
+    {
+      "match_id": "EUW1_7813494590",
+      "result": "W",
+      "timestamp": 1775590480943
+    },
+    {
+      "match_id": "EUW1_7813391096",
+      "result": "L",
+      "timestamp": 1775586298602
+    },
+    {
+      "match_id": "EUW1_7813333160",
+      "result": "L",
+      "timestamp": 1775583780877
+    },
+    {
+      "match_id": "EUW1_7813287041",
+      "result": "W",
+      "timestamp": 1775581541807
+    },
+    {
+      "match_id": "EUW1_7813252186",
+      "result": "W",
+      "timestamp": 1775579776834
+    },
+    {
+      "match_id": "EUW1_7812319823",
+      "result": "W",
+      "timestamp": 1775496150444
+    },
+    {
+      "match_id": "EUW1_7812264364",
+      "result": "L",
+      "timestamp": 1775493815707
+    },
+    {
+      "match_id": "EUW1_7812222995",
+      "result": "L",
+      "timestamp": 1775491674365
+    },
+    {
+      "match_id": "EUW1_7812192381",
+      "result": "L",
+      "timestamp": 1775490327239
+    },
+    {
+      "match_id": "EUW1_7806023511",
+      "result": "W",
+      "timestamp": 1774997768619
+    },
+    {
+      "match_id": "EUW1_7805980158",
+      "result": "W",
+      "timestamp": 1774995226109
+    },
+    {
+      "match_id": "EUW1_7805920026",
+      "result": "W",
+      "timestamp": 1774992159642
+    },
+    {
+      "match_id": "EUW1_7805866256",
+      "result": "W",
+      "timestamp": 1774989960950
+    },
+    {
+      "match_id": "EUW1_7805805566",
+      "result": "W",
+      "timestamp": 1774987224490
+    },
+    {
+      "match_id": "EUW1_7805752125",
+      "result": "L",
+      "timestamp": 1774985313003
+    },
+    {
+      "match_id": "EUW1_7805707484",
+      "result": "W",
+      "timestamp": 1774983241082
+    },
+    {
+      "match_id": "EUW1_7805668054",
+      "result": "W",
+      "timestamp": 1774981832161
+    },
+    {
+      "match_id": "EUW1_7800936558",
+      "result": "W",
+      "timestamp": 1774639608229
+    },
+    {
+      "match_id": "EUW1_7800879913",
+      "result": "L",
+      "timestamp": 1774637227376
+    },
+    {
+      "match_id": "EUW1_7800821149",
+      "result": "W",
+      "timestamp": 1774634639102
+    },
+    {
+      "match_id": "EUW1_7800777046",
+      "result": "W",
+      "timestamp": 1774632703867
+    },
+    {
+      "match_id": "EUW1_7790519716",
+      "result": "L",
+      "timestamp": 1774063715087
+    },
+    {
+      "match_id": "EUW1_7788722185",
+      "result": "L",
+      "timestamp": 1773973868104
+    },
+    {
+      "match_id": "EUW1_7788704322",
+      "result": "W",
+      "timestamp": 1773971815342
+    },
+    {
+      "match_id": "EUW1_7788689400",
+      "result": "W",
+      "timestamp": 1773969954519
+    },
+    {
+      "match_id": "EUW1_7788660090",
+      "result": "L",
+      "timestamp": 1773966927961
+    },
+    {
+      "match_id": "EUW1_7788639413",
+      "result": "L",
+      "timestamp": 1773965540362
+    },
+    {
+      "match_id": "EUW1_7788610725",
+      "result": "W",
+      "timestamp": 1773963321333
+    },
+    {
+      "match_id": "EUW1_7788559983",
+      "result": "L",
+      "timestamp": 1773960866880
+    },
+    {
+      "match_id": "EUW1_7788498716",
+      "result": "W",
+      "timestamp": 1773958136482
+    },
+    {
+      "match_id": "EUW1_7781892919",
+      "result": "L",
+      "timestamp": 1773613764169
+    },
+    {
+      "match_id": "EUW1_7781803973",
+      "result": "L",
+      "timestamp": 1773610974639
+    },
+    {
+      "match_id": "EUW1_7781434984",
+      "result": "L",
+      "timestamp": 1773600624266
+    },
+    {
+      "match_id": "EUW1_7780109350",
+      "result": "L",
+      "timestamp": 1773535560468
+    },
+    {
+      "match_id": "EUW1_7780051197",
+      "result": "W",
+      "timestamp": 1773533045090
+    },
+    {
+      "match_id": "EUW1_7780002692",
+      "result": "W",
+      "timestamp": 1773531043890
+    },
+    {
+      "match_id": "EUW1_7779942248",
+      "result": "W",
+      "timestamp": 1773529144433
+    },
+    {
+      "match_id": "EUW1_7779869880",
+      "result": "W",
+      "timestamp": 1773526749655
+    },
+    {
+      "match_id": "EUW1_7779798895",
+      "result": "W",
+      "timestamp": 1773524624681
+    },
+    {
+      "match_id": "EUW1_7779716983",
+      "result": "W",
+      "timestamp": 1773522164411
+    },
+    {
+      "match_id": "EUW1_7779630065",
+      "result": "W",
+      "timestamp": 1773519553869
+    },
+    {
+      "match_id": "EUW1_7779587904",
+      "result": "W",
+      "timestamp": 1773517985144
+    },
+    {
+      "match_id": "EUW1_7779515101",
+      "result": "L",
+      "timestamp": 1773515819491
+    },
+    {
+      "match_id": "EUW1_7779455861",
+      "result": "W",
+      "timestamp": 1773513687260
+    },
+    {
+      "match_id": "EUW1_7779389371",
+      "result": "W",
+      "timestamp": 1773511469917
+    },
+    {
+      "match_id": "EUW1_7779357847",
+      "result": "W",
+      "timestamp": 1773510189826
+    },
+    {
+      "match_id": "EUW1_7779267108",
+      "result": "L",
+      "timestamp": 1773507127304
+    },
+    {
+      "match_id": "EUW1_7779195007",
+      "result": "W",
+      "timestamp": 1773504628287
+    },
+    {
+      "match_id": "EUW1_7779116412",
+      "result": "W",
+      "timestamp": 1773502088194
+    },
+    {
+      "match_id": "EUW1_7779045685",
+      "result": "W",
+      "timestamp": 1773499452187
+    },
+    {
+      "match_id": "EUW1_7777851786",
+      "result": "L",
+      "timestamp": 1773435137249
+    },
+    {
+      "match_id": "EUW1_7777782773",
+      "result": "W",
+      "timestamp": 1773433115293
+    },
+    {
+      "match_id": "EUW1_7777173563",
+      "result": "W",
+      "timestamp": 1773409685300
+    },
+    {
+      "match_id": "EUW1_7777122962",
+      "result": "L",
+      "timestamp": 1773407425821
+    },
+    {
+      "match_id": "EUW1_7777083153",
+      "result": "W",
+      "timestamp": 1773405571272
+    },
+    {
+      "match_id": "EUW1_7777039296",
+      "result": "W",
+      "timestamp": 1773403255764
+    },
+    {
+      "match_id": "EUW1_7774897452",
+      "result": "L",
+      "timestamp": 1773273532910
+    },
+    {
+      "match_id": "EUW1_7774857810",
+      "result": "L",
+      "timestamp": 1773271433166
+    },
+    {
+      "match_id": "EUW1_7774782022",
+      "result": "L",
+      "timestamp": 1773268524180
+    },
+    {
+      "match_id": "EUW1_7774705118",
+      "result": "W",
+      "timestamp": 1773266006995
+    },
+    {
+      "match_id": "EUW1_7774638463",
+      "result": "W",
+      "timestamp": 1773263759629
+    },
+    {
+      "match_id": "EUW1_7773131783",
+      "result": "W",
+      "timestamp": 1773181171678
+    },
+    {
+      "match_id": "EUW1_7773049588",
+      "result": "L",
+      "timestamp": 1773178473332
+    },
+    {
+      "match_id": "EUW1_7772960404",
+      "result": "L",
+      "timestamp": 1773176059436
+    },
+    {
+      "match_id": "EUW1_7770584409",
+      "result": "L",
+      "timestamp": 1773062871345
+    },
+    {
+      "match_id": "EUW1_7770545931",
+      "result": "W",
+      "timestamp": 1773060682199
+    },
+    {
+      "match_id": "EUW1_7770478079",
+      "result": "L",
+      "timestamp": 1773057018662
+    },
+    {
+      "match_id": "EUW1_7770424857",
+      "result": "W",
+      "timestamp": 1773053843898
+    },
+    {
+      "match_id": "EUW1_7770387260",
+      "result": "L",
+      "timestamp": 1773051739914
+    },
+    {
+      "match_id": "EUW1_7770359298",
+      "result": "W",
+      "timestamp": 1773049881176
+    },
+    {
+      "match_id": "EUW1_7770332506",
+      "result": "L",
+      "timestamp": 1773047458846
+    },
+    {
+      "match_id": "EUW1_7770288726",
+      "result": "L",
+      "timestamp": 1773044188102
+    },
+    {
+      "match_id": "EUW1_7768691258",
+      "result": "L",
+      "timestamp": 1772972931217
+    },
+    {
+      "match_id": "EUW1_7768623622",
+      "result": "L",
+      "timestamp": 1772969559501
+    },
+    {
+      "match_id": "EUW1_7768575384",
+      "result": "L",
+      "timestamp": 1772967506832
+    },
+    {
+      "match_id": "EUW1_7766139292",
+      "result": "W",
+      "timestamp": 1772834407902
+    },
+    {
+      "match_id": "EUW1_7766064131",
+      "result": "W",
+      "timestamp": 1772832089595
+    },
+    {
+      "match_id": "EUW1_7765970631",
+      "result": "W",
+      "timestamp": 1772829020208
+    },
+    {
+      "match_id": "EUW1_7765884346",
+      "result": "L",
+      "timestamp": 1772826497319
+    },
+    {
+      "match_id": "EUW1_7765838066",
+      "result": "L",
+      "timestamp": 1772824732411
+    },
+    {
+      "match_id": "EUW1_7765744163",
+      "result": "L",
+      "timestamp": 1772821483988
+    },
+    {
+      "match_id": "EUW1_7765655088",
+      "result": "L",
+      "timestamp": 1772818075909
+    },
+    {
+      "match_id": "EUW1_7765599027",
+      "result": "L",
+      "timestamp": 1772815887488
+    },
+    {
+      "match_id": "EUW1_7765381804",
+      "result": "L",
+      "timestamp": 1772806938953
+    },
+    {
+      "match_id": "EUW1_7765337658",
+      "result": "W",
+      "timestamp": 1772804973953
+    },
+    {
+      "match_id": "EUW1_7765302084",
+      "result": "W",
+      "timestamp": 1772803380670
+    },
+    {
+      "match_id": "EUW1_7765253618",
+      "result": "W",
+      "timestamp": 1772800820535
+    },
+    {
+      "match_id": "EUW1_7765205969",
+      "result": "L",
+      "timestamp": 1772798534907
+    },
+    {
+      "match_id": "EUW1_7765143343",
+      "result": "W",
+      "timestamp": 1772795175319
+    },
+    {
+      "match_id": "EUW1_7751421446",
+      "result": "L",
+      "timestamp": 1772005901236
+    },
+    {
+      "match_id": "EUW1_7751373426",
+      "result": "L",
+      "timestamp": 1772000629866
+    },
+    {
+      "match_id": "EUW1_7751366474",
+      "result": "L",
+      "timestamp": 1771998703376
+    },
+    {
+      "match_id": "EUW1_7751354593",
+      "result": "L",
+      "timestamp": 1771997412298
+    },
+    {
+      "match_id": "EUW1_7751064958",
+      "result": "L",
+      "timestamp": 1771976001400
+    },
+    {
+      "match_id": "EUW1_7751012905",
+      "result": "L",
+      "timestamp": 1771973977496
+    },
+    {
+      "match_id": "EUW1_7750934474",
+      "result": "W",
+      "timestamp": 1771971227900
+    },
+    {
+      "match_id": "EUW1_7750842152",
+      "result": "W",
+      "timestamp": 1771968726350
+    },
+    {
+      "match_id": "EUW1_7750744417",
+      "result": "L",
+      "timestamp": 1771966154829
+    },
+    {
+      "match_id": "EUW1_7750703679",
+      "result": "L",
+      "timestamp": 1771964894944
+    },
+    {
+      "match_id": "EUW1_7749722710",
+      "result": "L",
+      "timestamp": 1771926658421
+    },
+    {
+      "match_id": "EUW1_7749675341",
+      "result": "W",
+      "timestamp": 1771924036507
+    },
+    {
+      "match_id": "EUW1_7749670514",
+      "result": "W",
+      "timestamp": 1771922892429
+    },
+    {
+      "match_id": "EUW1_7749641368",
+      "result": "L",
+      "timestamp": 1771920635569
+    },
+    {
+      "match_id": "EUW1_7749625165",
+      "result": "W",
+      "timestamp": 1771918548485
+    },
+    {
+      "match_id": "EUW1_7749605385",
+      "result": "L",
+      "timestamp": 1771916050158
+    },
+    {
+      "match_id": "EUW1_7749593054",
+      "result": "W",
+      "timestamp": 1771913772146
+    },
+    {
+      "match_id": "EUW1_7749575978",
+      "result": "L",
+      "timestamp": 1771911342056
+    },
+    {
+      "match_id": "EUW1_7749550812",
+      "result": "L",
+      "timestamp": 1771907940933
+    },
+    {
+      "match_id": "EUW1_7749530429",
+      "result": "L",
+      "timestamp": 1771906300636
+    },
+    {
+      "match_id": "EUW1_7749521616",
+      "result": "W",
+      "timestamp": 1771904770846
+    },
+    {
+      "match_id": "EUW1_7749500901",
+      "result": "L",
+      "timestamp": 1771902791623
+    },
+    {
+      "match_id": "EUW1_7749452789",
+      "result": "L",
+      "timestamp": 1771898948977
+    },
+    {
+      "match_id": "EUW1_7749427550",
+      "result": "W",
+      "timestamp": 1771896754580
+    },
+    {
+      "match_id": "EUW1_7749349614",
+      "result": "L",
+      "timestamp": 1771891822999
+    },
+    {
+      "match_id": "EUW1_7749299845",
+      "result": "W",
+      "timestamp": 1771889529860
+    },
+    {
+      "match_id": "EUW1_7749247526",
+      "result": "W",
+      "timestamp": 1771887424201
+    },
+    {
+      "match_id": "EUW1_7749181899",
+      "result": "L",
+      "timestamp": 1771885337568
+    },
+    {
+      "match_id": "EUW1_7749090055",
+      "result": "W",
+      "timestamp": 1771882670341
+    },
+    {
+      "match_id": "EUW1_7748881910",
+      "result": "W",
+      "timestamp": 1771877240341
+    },
+    {
+      "match_id": "EUW1_7748797490",
+      "result": "W",
+      "timestamp": 1771874876166
+    },
+    {
+      "match_id": "EUW1_7748745144",
+      "result": "W",
+      "timestamp": 1771873639270
+    },
+    {
+      "match_id": "EUW1_7748654821",
+      "result": "W",
+      "timestamp": 1771870887648
+    },
+    {
+      "match_id": "EUW1_7747769019",
+      "result": "L",
+      "timestamp": 1771820973069
+    },
+    {
+      "match_id": "EUW1_7747743424",
+      "result": "L",
+      "timestamp": 1771818500128
+    },
+    {
+      "match_id": "EUW1_7747732900",
+      "result": "L",
+      "timestamp": 1771816987849
+    },
+    {
+      "match_id": "EUW1_7747658591",
+      "result": "L",
+      "timestamp": 1771810608560
+    },
+    {
+      "match_id": "EUW1_7747627125",
+      "result": "L",
+      "timestamp": 1771808389475
+    },
+    {
+      "match_id": "EUW1_7747606634",
+      "result": "W",
+      "timestamp": 1771806671884
+    },
+    {
+      "match_id": "EUW1_7747532827",
+      "result": "L",
+      "timestamp": 1771802814873
+    },
+    {
+      "match_id": "EUW1_7747474444",
+      "result": "W",
+      "timestamp": 1771800651702
+    },
+    {
+      "match_id": "EUW1_7747406831",
+      "result": "L",
+      "timestamp": 1771798163286
+    },
+    {
+      "match_id": "EUW1_7747348699",
+      "result": "W",
+      "timestamp": 1771796406809
+    },
+    {
+      "match_id": "EUW1_7747155823",
+      "result": "L",
+      "timestamp": 1771791365028
+    },
+    {
+      "match_id": "EUW1_7747085097",
+      "result": "L",
+      "timestamp": 1771789659537
+    },
+    {
+      "match_id": "EUW1_7747016129",
+      "result": "W",
+      "timestamp": 1771787882800
+    },
+    {
+      "match_id": "EUW1_7746813567",
+      "result": "W",
+      "timestamp": 1771782017580
+    },
+    {
+      "match_id": "EUW1_7743926357",
+      "result": "L",
+      "timestamp": 1771651057257
+    },
+    {
+      "match_id": "EUW1_7743927687",
+      "result": "L",
+      "timestamp": 1771648874170
+    },
+    {
+      "match_id": "EUW1_7743922497",
+      "result": "W",
+      "timestamp": 1771646597916
+    },
+    {
+      "match_id": "EUW1_7743906125",
+      "result": "L",
+      "timestamp": 1771644518855
+    },
+    {
+      "match_id": "EUW1_7743892450",
+      "result": "W",
+      "timestamp": 1771642366329
+    },
+    {
+      "match_id": "EUW1_7743878275",
+      "result": "L",
+      "timestamp": 1771640257722
+    },
+    {
+      "match_id": "EUW1_7743856686",
+      "result": "W",
+      "timestamp": 1771637474283
+    },
+    {
+      "match_id": "EUW1_7743760903",
+      "result": "L",
+      "timestamp": 1771631709552
+    },
+    {
+      "match_id": "EUW1_7743723777",
+      "result": "L",
+      "timestamp": 1771630008528
+    },
+    {
+      "match_id": "EUW1_7743680590",
+      "result": "W",
+      "timestamp": 1771628318026
+    },
+    {
+      "match_id": "EUW1_7741896886",
+      "result": "L",
+      "timestamp": 1771541877446
+    },
+    {
+      "match_id": "EUW1_7741849442",
+      "result": "W",
+      "timestamp": 1771540458771
+    },
+    {
+      "match_id": "EUW1_7741658562",
+      "result": "W",
+      "timestamp": 1771534845885
+    },
+    {
+      "match_id": "EUW1_7741569089",
+      "result": "W",
+      "timestamp": 1771532610220
+    },
+    {
+      "match_id": "EUW1_7741478439",
+      "result": "W",
+      "timestamp": 1771530269194
+    },
+    {
+      "match_id": "EUW1_7741365080",
+      "result": "L",
+      "timestamp": 1771526956858
+    },
+    {
+      "match_id": "EUW1_7741294437",
+      "result": "W",
+      "timestamp": 1771524846926
+    },
+    {
+      "match_id": "EUW1_7741185766",
+      "result": "W",
+      "timestamp": 1771520988090
+    },
+    {
+      "match_id": "EUW1_7741100473",
+      "result": "L",
+      "timestamp": 1771517918470
+    },
+    {
+      "match_id": "EUW1_7741040601",
+      "result": "W",
+      "timestamp": 1771515711898
+    },
+    {
+      "match_id": "EUW1_7740313260",
+      "result": "W",
+      "timestamp": 1771458899687
+    },
+    {
+      "match_id": "EUW1_7740271711",
+      "result": "W",
+      "timestamp": 1771456769386
+    },
+    {
+      "match_id": "EUW1_7740185249",
+      "result": "W",
+      "timestamp": 1771453688400
+    },
+    {
+      "match_id": "EUW1_7740111544",
+      "result": "L",
+      "timestamp": 1771451219572
+    },
+    {
+      "match_id": "EUW1_7740035047",
+      "result": "W",
+      "timestamp": 1771449133487
+    },
+    {
+      "match_id": "EUW1_7739959756",
+      "result": "W",
+      "timestamp": 1771447004306
+    },
+    {
+      "match_id": "EUW1_7739870577",
+      "result": "W",
+      "timestamp": 1771444517068
+    },
+    {
+      "match_id": "EUW1_7739791020",
+      "result": "W",
+      "timestamp": 1771442334461
+    },
+    {
+      "match_id": "EUW1_7738467746",
+      "result": "L",
+      "timestamp": 1771367919429
+    },
+    {
+      "match_id": "EUW1_7738407870",
+      "result": "L",
+      "timestamp": 1771366105205
+    },
+    {
+      "match_id": "EUW1_7738341760",
+      "result": "L",
+      "timestamp": 1771364040468
+    },
+    {
+      "match_id": "EUW1_7738254519",
+      "result": "W",
+      "timestamp": 1771361560229
+    },
+    {
+      "match_id": "EUW1_7738133382",
+      "result": "W",
+      "timestamp": 1771358368748
+    },
+    {
+      "match_id": "EUW1_7737005669",
+      "result": "L",
+      "timestamp": 1771294590179
+    },
+    {
+      "match_id": "EUW1_7736974170",
+      "result": "W",
+      "timestamp": 1771292224457
+    },
+    {
+      "match_id": "EUW1_7736950812",
+      "result": "W",
+      "timestamp": 1771289726345
+    },
+    {
+      "match_id": "EUW1_7736856225",
+      "result": "W",
+      "timestamp": 1771284419777
+    },
+    {
+      "match_id": "EUW1_7736804799",
+      "result": "W",
+      "timestamp": 1771282109540
+    },
+    {
+      "match_id": "EUW1_7736754135",
+      "result": "L",
+      "timestamp": 1771280466817
+    },
+    {
+      "match_id": "EUW1_7736637418",
+      "result": "W",
+      "timestamp": 1771276888833
+    },
+    {
+      "match_id": "EUW1_7736543084",
+      "result": "W",
+      "timestamp": 1771274196854
+    },
+    {
+      "match_id": "EUW1_7736469481",
+      "result": "W",
+      "timestamp": 1771272078264
+    },
+    {
+      "match_id": "EUW1_7736366602",
+      "result": "W",
+      "timestamp": 1771269144498
+    },
+    {
+      "match_id": "EUW1_7732213999",
+      "result": "L",
+      "timestamp": 1771075150328
+    },
+    {
+      "match_id": "EUW1_7731852394",
+      "result": "L",
+      "timestamp": 1771051296619
+    },
+    {
+      "match_id": "EUW1_7731849781",
+      "result": "L",
+      "timestamp": 1771049585420
+    },
+    {
+      "match_id": "EUW1_7731837931",
+      "result": "W",
+      "timestamp": 1771046967068
+    },
+    {
+      "match_id": "EUW1_7731832876",
+      "result": "W",
+      "timestamp": 1771044983479
+    },
+    {
+      "match_id": "EUW1_7730013631",
+      "result": "L",
+      "timestamp": 1770945830859
+    },
+    {
+      "match_id": "EUW1_7729975831",
+      "result": "L",
+      "timestamp": 1770943386932
+    },
+    {
+      "match_id": "EUW1_7728722631",
+      "result": "L",
+      "timestamp": 1770898903595
+    },
+    {
+      "match_id": "EUW1_7728667363",
+      "result": "L",
+      "timestamp": 1770896115882
+    },
+    {
+      "match_id": "EUW1_7728616610",
+      "result": "L",
+      "timestamp": 1770892591255
+    },
+    {
+      "match_id": "EUW1_7728260721",
+      "result": "L",
+      "timestamp": 1770855487940
+    },
+    {
+      "match_id": "EUW1_7728202955",
+      "result": "L",
+      "timestamp": 1770852313944
+    },
+    {
+      "match_id": "EUW1_7727852448",
+      "result": "L",
+      "timestamp": 1770840974450
+    },
+    {
+      "match_id": "EUW1_7727408330",
+      "result": "L",
+      "timestamp": 1770825987994
+    },
+    {
+      "match_id": "EUW1_7727363627",
+      "result": "L",
+      "timestamp": 1770823925386
+    },
+    {
+      "match_id": "EUW1_7727304555",
+      "result": "L",
+      "timestamp": 1770821014286
+    },
+    {
+      "match_id": "EUW1_7727249209",
+      "result": "W",
+      "timestamp": 1770818431516
+    },
+    {
+      "match_id": "EUW1_7727085693",
+      "result": "W",
+      "timestamp": 1770807520550
+    },
+    {
+      "match_id": "EUW1_7727054874",
+      "result": "W",
+      "timestamp": 1770805217012
+    },
+    {
+      "match_id": "EUW1_7724581710",
+      "result": "L",
+      "timestamp": 1770663783772
+    },
+    {
+      "match_id": "EUW1_7723563559",
+      "result": "L",
+      "timestamp": 1770595135488
+    },
+    {
+      "match_id": "EUW1_7723514732",
+      "result": "W",
+      "timestamp": 1770592709256
+    },
+    {
+      "match_id": "EUW1_7723453720",
+      "result": "W",
+      "timestamp": 1770590201875
+    },
+    {
+      "match_id": "EUW1_7723381436",
+      "result": "L",
+      "timestamp": 1770587967938
+    },
+    {
+      "match_id": "EUW1_7723283050",
+      "result": "L",
+      "timestamp": 1770585087398
+    },
+    {
+      "match_id": "EUW1_7723211466",
+      "result": "L",
+      "timestamp": 1770582941558
+    },
+    {
+      "match_id": "EUW1_7722012470",
+      "result": "L",
+      "timestamp": 1770536370463
+    },
+    {
+      "match_id": "EUW1_7721998867",
+      "result": "L",
+      "timestamp": 1770534642678
+    },
+    {
+      "match_id": "EUW1_7721987518",
+      "result": "W",
+      "timestamp": 1770532205619
+    },
+    {
+      "match_id": "EUW1_7721966352",
+      "result": "W",
+      "timestamp": 1770529936520
+    },
+    {
+      "match_id": "EUW1_7721953861",
+      "result": "W",
+      "timestamp": 1770527094729
+    },
+    {
+      "match_id": "EUW1_7721932194",
+      "result": "W",
+      "timestamp": 1770524349569
+    },
+    {
+      "match_id": "EUW1_7721926536",
+      "result": "L",
+      "timestamp": 1770522339758
+    },
+    {
+      "match_id": "EUW1_7721877433",
+      "result": "L",
+      "timestamp": 1770517388743
+    },
+    {
+      "match_id": "EUW1_7721813686",
+      "result": "L",
+      "timestamp": 1770512164019
+    },
+    {
+      "match_id": "EUW1_7721787475",
+      "result": "W",
+      "timestamp": 1770510613116
+    },
+    {
+      "match_id": "EUW1_7721730403",
+      "result": "W",
+      "timestamp": 1770508484667
+    },
+    {
+      "match_id": "EUW1_7721656826",
+      "result": "L",
+      "timestamp": 1770505586411
+    },
+    {
+      "match_id": "EUW1_7721585190",
+      "result": "W",
+      "timestamp": 1770503497897
+    },
+    {
+      "match_id": "EUW1_7721493882",
+      "result": "W",
+      "timestamp": 1770500773717
+    },
+    {
+      "match_id": "EUW1_7721423748",
+      "result": "W",
+      "timestamp": 1770498703440
+    },
+    {
+      "match_id": "EUW1_7721221403",
+      "result": "W",
+      "timestamp": 1770492604894
+    },
+    {
+      "match_id": "EUW1_7721163794",
+      "result": "W",
+      "timestamp": 1770490484216
+    },
+    {
+      "match_id": "EUW1_7720921928",
+      "result": "L",
+      "timestamp": 1770482077782
+    },
+    {
+      "match_id": "EUW1_7720859485",
+      "result": "W",
+      "timestamp": 1770479738436
+    },
+    {
+      "match_id": "EUW1_7720794787",
+      "result": "W",
+      "timestamp": 1770477640126
+    },
+    {
+      "match_id": "EUW1_7720726796",
+      "result": "W",
+      "timestamp": 1770475248183
+    },
+    {
+      "match_id": "EUW1_7720652528",
+      "result": "L",
+      "timestamp": 1770472458461
+    },
+    {
+      "match_id": "EUW1_7720607472",
+      "result": "L",
+      "timestamp": 1770470655189
+    },
+    {
+      "match_id": "EUW1_7720548024",
+      "result": "W",
+      "timestamp": 1770468429842
+    },
+    {
+      "match_id": "EUW1_7720498676",
+      "result": "W",
+      "timestamp": 1770466002340
+    },
+    {
+      "match_id": "EUW1_7720440663",
+      "result": "L",
+      "timestamp": 1770463201116
+    },
+    {
+      "match_id": "EUW1_7720398604",
+      "result": "L",
+      "timestamp": 1770460810356
+    },
+    {
+      "match_id": "EUW1_7720363784",
+      "result": "L",
+      "timestamp": 1770458816160
+    },
+    {
+      "match_id": "EUW1_7718785610",
+      "result": "L",
+      "timestamp": 1770374341262
+    },
+    {
+      "match_id": "EUW1_7718742642",
+      "result": "L",
+      "timestamp": 1770371162278
+    },
+    {
+      "match_id": "EUW1_7718722562",
+      "result": "L",
+      "timestamp": 1770369351185
+    },
+    {
+      "match_id": "EUW1_7718700004",
+      "result": "L",
+      "timestamp": 1770367633984
+    },
+    {
+      "match_id": "EUW1_7718683292",
+      "result": "L",
+      "timestamp": 1770365800641
+    },
+    {
+      "match_id": "EUW1_7718672656",
+      "result": "L",
+      "timestamp": 1770363297194
+    },
+    {
+      "match_id": "EUW1_7718663523",
+      "result": "W",
+      "timestamp": 1770361169380
+    },
+    {
+      "match_id": "EUW1_7718650672",
+      "result": "W",
+      "timestamp": 1770358972432
+    },
+    {
+      "match_id": "EUW1_7718642729",
+      "result": "L",
+      "timestamp": 1770356322170
+    },
+    {
+      "match_id": "EUW1_7718629283",
+      "result": "W",
+      "timestamp": 1770354226736
+    },
+    {
+      "match_id": "EUW1_7718630759",
+      "result": "L",
+      "timestamp": 1770352632107
+    },
+    {
+      "match_id": "EUW1_7718623090",
+      "result": "L",
+      "timestamp": 1770350523263
+    },
+    {
+      "match_id": "EUW1_7718615547",
+      "result": "L",
+      "timestamp": 1770347322857
+    },
+    {
+      "match_id": "EUW1_7718599796",
+      "result": "L",
+      "timestamp": 1770345074736
+    },
+    {
+      "match_id": "EUW1_7718389914",
+      "result": "W",
+      "timestamp": 1770330519947
+    },
+    {
+      "match_id": "EUW1_7718314501",
+      "result": "L",
+      "timestamp": 1770327941315
+    },
+    {
+      "match_id": "EUW1_7718211538",
+      "result": "W",
+      "timestamp": 1770324953669
+    },
+    {
+      "match_id": "EUW1_7718114693",
+      "result": "L",
+      "timestamp": 1770322306089
+    },
+    {
+      "match_id": "EUW1_7717136497",
+      "result": "L",
+      "timestamp": 1770266784400
+    },
+    {
+      "match_id": "EUW1_7717119863",
+      "result": "W",
+      "timestamp": 1770264165908
+    },
+    {
+      "match_id": "EUW1_7717106781",
+      "result": "W",
+      "timestamp": 1770261623078
+    },
+    {
+      "match_id": "EUW1_7717086708",
+      "result": "L",
+      "timestamp": 1770258663175
+    },
+    {
+      "match_id": "EUW1_7717063175",
+      "result": "L",
+      "timestamp": 1770256533301
+    },
+    {
+      "match_id": "EUW1_7717041217",
+      "result": "L",
+      "timestamp": 1770254363228
+    },
+    {
+      "match_id": "EUW1_7717010196",
+      "result": "W",
+      "timestamp": 1770251919216
+    },
+    {
+      "match_id": "EUW1_7716983749",
+      "result": "L",
+      "timestamp": 1770249989528
+    },
+    {
+      "match_id": "EUW1_7716934295",
+      "result": "W",
+      "timestamp": 1770247721974
+    },
+    {
+      "match_id": "EUW1_7716873188",
+      "result": "W",
+      "timestamp": 1770245237655
+    },
+    {
+      "match_id": "EUW1_7716799447",
+      "result": "L",
+      "timestamp": 1770242865891
+    },
+    {
+      "match_id": "EUW1_7716625370",
+      "result": "L",
+      "timestamp": 1770237957602
+    },
+    {
+      "match_id": "EUW1_7716552679",
+      "result": "W",
+      "timestamp": 1770235808383
+    },
+    {
+      "match_id": "EUW1_7716487049",
+      "result": "W",
+      "timestamp": 1770234127026
+    },
+    {
+      "match_id": "EUW1_7716426650",
+      "result": "W",
+      "timestamp": 1770232235795
+    },
+    {
+      "match_id": "EUW1_7715252579",
+      "result": "L",
+      "timestamp": 1770154035653
+    },
+    {
+      "match_id": "EUW1_7714565598",
+      "result": "W",
+      "timestamp": 1770132804346
+    },
+    {
+      "match_id": "EUW1_7714483110",
+      "result": "L",
+      "timestamp": 1770129060415
+    },
+    {
+      "match_id": "EUW1_7714390565",
+      "result": "W",
+      "timestamp": 1770123829871
+    },
+    {
+      "match_id": "EUW1_7714341872",
+      "result": "W",
+      "timestamp": 1770121105302
+    },
+    {
+      "match_id": "EUW1_7714292400",
+      "result": "W",
+      "timestamp": 1770117996232
+    },
+    {
+      "match_id": "EUW1_7714271256",
+      "result": "W",
+      "timestamp": 1770116003696
+    },
+    {
+      "match_id": "EUW1_7714251891",
+      "result": "W",
+      "timestamp": 1770113841439
+    },
+    {
+      "match_id": "EUW1_7714221200",
+      "result": "W",
+      "timestamp": 1770110759377
+    },
+    {
+      "match_id": "EUW1_7714213608",
+      "result": "L",
+      "timestamp": 1770108858847
+    },
+    {
+      "match_id": "EUW1_7714197791",
+      "result": "W",
+      "timestamp": 1770106557577
+    },
+    {
+      "match_id": "EUW1_7714186812",
+      "result": "L",
+      "timestamp": 1770104435306
+    },
+    {
+      "match_id": "EUW1_7714174731",
+      "result": "W",
+      "timestamp": 1770100966444
+    },
+    {
+      "match_id": "EUW1_7714163006",
+      "result": "W",
+      "timestamp": 1770098698531
+    },
+    {
+      "match_id": "EUW1_7714161517",
+      "result": "W",
+      "timestamp": 1770097207746
+    },
+    {
+      "match_id": "EUW1_7714152634",
+      "result": "W",
+      "timestamp": 1770094863747
+    },
+    {
+      "match_id": "EUW1_7712996314",
+      "result": "L",
+      "timestamp": 1770041125410
+    },
+    {
+      "match_id": "EUW1_7712959671",
+      "result": "L",
+      "timestamp": 1770038641373
+    },
+    {
+      "match_id": "EUW1_7712908123",
+      "result": "L",
+      "timestamp": 1770035851190
+    },
+    {
+      "match_id": "EUW1_7712876818",
+      "result": "L",
+      "timestamp": 1770033562105
+    },
+    {
+      "match_id": "EUW1_7712837132",
+      "result": "L",
+      "timestamp": 1770030970465
+    },
+    {
+      "match_id": "EUW1_7712806429",
+      "result": "L",
+      "timestamp": 1770028898764
+    },
+    {
+      "match_id": "EUW1_7712787607",
+      "result": "W",
+      "timestamp": 1770026734165
+    },
+    {
+      "match_id": "EUW1_7712759359",
+      "result": "L",
+      "timestamp": 1770024576985
+    },
+    {
+      "match_id": "EUW1_7712747582",
+      "result": "W",
+      "timestamp": 1770022469731
+    },
+    {
+      "match_id": "EUW1_7712724938",
+      "result": "W",
+      "timestamp": 1770019454682
+    },
+    {
+      "match_id": "EUW1_7712713901",
+      "result": "W",
+      "timestamp": 1770017268659
+    },
+    {
+      "match_id": "EUW1_7712678894",
+      "result": "L",
+      "timestamp": 1770007482096
+    },
+    {
+      "match_id": "EUW1_7712665341",
+      "result": "L",
+      "timestamp": 1770005256827
+    },
+    {
+      "match_id": "EUW1_7712657027",
+      "result": "W",
+      "timestamp": 1770002788859
+    },
+    {
+      "match_id": "EUW1_7712647013",
+      "result": "L",
+      "timestamp": 1770000515392
+    },
+    {
+      "match_id": "EUW1_7712639803",
+      "result": "W",
+      "timestamp": 1769998429163
+    },
+    {
+      "match_id": "EUW1_7712617318",
+      "result": "L",
+      "timestamp": 1769996080769
+    },
+    {
+      "match_id": "EUW1_7712486109",
+      "result": "L",
+      "timestamp": 1769986701979
+    },
+    {
+      "match_id": "EUW1_7711158430",
+      "result": "L",
+      "timestamp": 1769937953172
+    },
+    {
+      "match_id": "EUW1_7711148931",
+      "result": "L",
+      "timestamp": 1769936441531
+    },
+    {
+      "match_id": "EUW1_7704913269",
+      "result": "L",
+      "timestamp": 1769552489467
+    },
+    {
+      "match_id": "EUW1_7704879589",
+      "result": "W",
+      "timestamp": 1769551172407
+    },
+    {
+      "match_id": "EUW1_7704779344",
+      "result": "W",
+      "timestamp": 1769548289904
+    },
+    {
+      "match_id": "EUW1_7704723604",
+      "result": "W",
+      "timestamp": 1769546542704
+    },
+    {
+      "match_id": "EUW1_7704674315",
+      "result": "L",
+      "timestamp": 1769545272099
+    },
+    {
+      "match_id": "EUW1_7701020226",
+      "result": "L",
+      "timestamp": 1769347925956
+    },
+    {
+      "match_id": "EUW1_7700913457",
+      "result": "L",
+      "timestamp": 1769343119184
+    },
+    {
+      "match_id": "EUW1_7700875913",
+      "result": "W",
+      "timestamp": 1769341471830
+    },
+    {
+      "match_id": "EUW1_7700814402",
+      "result": "L",
+      "timestamp": 1769338370174
+    },
+    {
+      "match_id": "EUW1_7700760643",
+      "result": "W",
+      "timestamp": 1769334182299
+    },
+    {
+      "match_id": "EUW1_7700734907",
+      "result": "W",
+      "timestamp": 1769332020213
+    },
+    {
+      "match_id": "EUW1_7699324273",
+      "result": "L",
+      "timestamp": 1769257774917
+    },
+    {
+      "match_id": "EUW1_7698291376",
+      "result": "L",
+      "timestamp": 1769193696069
+    },
+    {
+      "match_id": "EUW1_7698213652",
+      "result": "L",
+      "timestamp": 1769190574669
+    },
+    {
+      "match_id": "EUW1_7698143566",
+      "result": "L",
+      "timestamp": 1769187947653
+    },
+    {
+      "match_id": "EUW1_7696128125",
+      "result": "L",
+      "timestamp": 1769070661065
+    },
+    {
+      "match_id": "EUW1_7694586127",
+      "result": "L",
+      "timestamp": 1768959885820
+    },
+    {
+      "match_id": "EUW1_7693895240",
+      "result": "W",
+      "timestamp": 1768933266002
+    },
+    {
+      "match_id": "EUW1_7693793685",
+      "result": "W",
+      "timestamp": 1768929402792
+    },
+    {
+      "match_id": "EUW1_7693721125",
+      "result": "W",
+      "timestamp": 1768926427563
+    },
+    {
+      "match_id": "EUW1_7693679551",
+      "result": "L",
+      "timestamp": 1768924369211
+    },
+    {
+      "match_id": "EUW1_7693605865",
+      "result": "W",
+      "timestamp": 1768920780080
+    },
+    {
+      "match_id": "EUW1_7693559019",
+      "result": "W",
+      "timestamp": 1768918321390
+    },
+    {
+      "match_id": "EUW1_7693513305",
+      "result": "L",
+      "timestamp": 1768915669804
+    },
+    {
+      "match_id": "EUW1_7693485880",
+      "result": "W",
+      "timestamp": 1768913744917
+    },
+    {
+      "match_id": "EUW1_7693386569",
+      "result": "L",
+      "timestamp": 1768905817676
+    },
+    {
+      "match_id": "EUW1_7693062100",
+      "result": "W",
+      "timestamp": 1768862561632
+    },
+    {
+      "match_id": "EUW1_7693020695",
+      "result": "W",
+      "timestamp": 1768860870707
+    },
+    {
+      "match_id": "EUW1_7692731593",
+      "result": "L",
+      "timestamp": 1768851925004
+    },
+    {
+      "match_id": "EUW1_7692631436",
+      "result": "L",
+      "timestamp": 1768849028883
+    },
+    {
+      "match_id": "EUW1_7692545053",
+      "result": "W",
+      "timestamp": 1768845953150
+    },
+    {
+      "match_id": "EUW1_7692478687",
+      "result": "W",
+      "timestamp": 1768843372692
+    },
+    {
+      "match_id": "EUW1_7692413946",
+      "result": "L",
+      "timestamp": 1768840834963
+    },
+    {
+      "match_id": "EUW1_7692350645",
+      "result": "W",
+      "timestamp": 1768837880310
+    },
+    {
+      "match_id": "EUW1_7692294878",
+      "result": "W",
+      "timestamp": 1768835179102
+    },
+    {
+      "match_id": "EUW1_7692244744",
+      "result": "W",
+      "timestamp": 1768832418882
+    },
+    {
+      "match_id": "EUW1_7692183997",
+      "result": "L",
+      "timestamp": 1768828993560
+    },
+    {
+      "match_id": "EUW1_7692128955",
+      "result": "L",
+      "timestamp": 1768825157711
+    },
+    {
+      "match_id": "EUW1_7689251968",
+      "result": "L",
+      "timestamp": 1768661547274
+    },
+    {
+      "match_id": "EUW1_7689181441",
+      "result": "L",
+      "timestamp": 1768658866178
+    },
+    {
+      "match_id": "EUW1_7689126952",
+      "result": "W",
+      "timestamp": 1768656209638
+    },
+    {
+      "match_id": "EUW1_7689068116",
+      "result": "L",
+      "timestamp": 1768653491433
+    },
+    {
+      "match_id": "EUW1_7687566337",
+      "result": "L",
+      "timestamp": 1768567646947
+    },
+    {
+      "match_id": "EUW1_7687538940",
+      "result": "L",
+      "timestamp": 1768565663582
+    },
+    {
+      "match_id": "EUW1_7687492385",
+      "result": "W",
+      "timestamp": 1768562586171
+    },
+    {
+      "match_id": "EUW1_7687464360",
+      "result": "L",
+      "timestamp": 1768560546842
+    },
+    {
+      "match_id": "EUW1_7687444539",
+      "result": "W",
+      "timestamp": 1768558017032
+    },
+    {
+      "match_id": "EUW1_7686054643",
+      "result": "L",
+      "timestamp": 1768475297055
+    },
+    {
+      "match_id": "EUW1_7686030330",
+      "result": "W",
+      "timestamp": 1768473530621
+    },
+    {
+      "match_id": "EUW1_7686012971",
+      "result": "W",
+      "timestamp": 1768471668480
+    },
+    {
+      "match_id": "EUW1_7685995563",
+      "result": "W",
+      "timestamp": 1768469378075
+    },
+    {
+      "match_id": "EUW1_7685981594",
+      "result": "W",
+      "timestamp": 1768467547670
+    },
+    {
+      "match_id": "EUW1_7685967752",
+      "result": "L",
+      "timestamp": 1768465704739
+    },
+    {
+      "match_id": "EUW1_7685953883",
+      "result": "W",
+      "timestamp": 1768463521303
+    },
+    {
+      "match_id": "EUW1_7685944218",
+      "result": "L",
+      "timestamp": 1768462017497
+    },
+    {
+      "match_id": "EUW1_7685708855",
+      "result": "L",
+      "timestamp": 1768430663036
+    },
+    {
+      "match_id": "EUW1_7685663980",
+      "result": "L",
+      "timestamp": 1768428860682
+    },
+    {
+      "match_id": "EUW1_7685606105",
+      "result": "W",
+      "timestamp": 1768427057013
+    },
+    {
+      "match_id": "EUW1_7685535192",
+      "result": "L",
+      "timestamp": 1768424836977
+    },
+    {
+      "match_id": "EUW1_7685454479",
+      "result": "L",
+      "timestamp": 1768422205037
+    },
+    {
+      "match_id": "EUW1_7685362258",
+      "result": "L",
+      "timestamp": 1768419582242
+    },
+    {
+      "match_id": "EUW1_7685292173",
+      "result": "W",
+      "timestamp": 1768417341523
+    },
+    {
+      "match_id": "EUW1_7685217436",
+      "result": "L",
+      "timestamp": 1768414816747
+    },
+    {
+      "match_id": "EUW1_7685169983",
+      "result": "L",
+      "timestamp": 1768412924051
+    },
+    {
+      "match_id": "EUW1_7685121995",
+      "result": "W",
+      "timestamp": 1768411155826
+    },
+    {
+      "match_id": "EUW1_7682521004",
+      "result": "L",
+      "timestamp": 1768245449068
+    },
+    {
+      "match_id": "EUW1_7682466467",
+      "result": "W",
+      "timestamp": 1768243579588
+    },
+    {
+      "match_id": "EUW1_7682404935",
+      "result": "W",
+      "timestamp": 1768241758472
+    },
+    {
+      "match_id": "EUW1_7682341611",
+      "result": "L",
+      "timestamp": 1768239570431
+    },
+    {
+      "match_id": "EUW1_7682268627",
+      "result": "L",
+      "timestamp": 1768237041781
+    },
+    {
+      "match_id": "EUW1_7681963339",
+      "result": "L",
+      "timestamp": 1768222366518
+    },
+    {
+      "match_id": "EUW1_7681934289",
+      "result": "W",
+      "timestamp": 1768220597131
+    },
+    {
+      "match_id": "EUW1_7681917737",
+      "result": "W",
+      "timestamp": 1768219345727
+    },
+    {
+      "match_id": "EUW1_7681887564",
+      "result": "L",
+      "timestamp": 1768216984260
+    },
+    {
+      "match_id": "EUW1_7681849807",
+      "result": "L",
+      "timestamp": 1768213857998
+    },
+    {
+      "match_id": "EUW1_7681827793",
+      "result": "L",
+      "timestamp": 1768211995330
+    },
+    {
+      "match_id": "EUW1_7681804971",
+      "result": "W",
+      "timestamp": 1768209329879
+    },
+    {
+      "match_id": "EUW1_7681783329",
+      "result": "W",
+      "timestamp": 1768206784289
+    },
+    {
+      "match_id": "EUW1_7681769407",
+      "result": "L",
+      "timestamp": 1768204791660
+    },
+    {
+      "match_id": "EUW1_7681766727",
+      "result": "W",
+      "timestamp": 1768202486473
+    },
+    {
+      "match_id": "EUW1_7681753781",
+      "result": "L",
+      "timestamp": 1768198919275
+    },
+    {
+      "match_id": "EUW1_7681752519",
+      "result": "L",
+      "timestamp": 1768197324051
+    },
+    {
+      "match_id": "EUW1_7681744627",
+      "result": "L",
+      "timestamp": 1768195004620
+    },
+    {
+      "match_id": "EUW1_7681436641",
+      "result": "L",
+      "timestamp": 1768168927853
+    },
+    {
+      "match_id": "EUW1_7681317738",
+      "result": "W",
+      "timestamp": 1768165571021
+    },
+    {
+      "match_id": "EUW1_7681239113",
+      "result": "L",
+      "timestamp": 1768163490112
+    },
+    {
+      "match_id": "EUW1_7681157361",
+      "result": "W",
+      "timestamp": 1768161207323
+    },
+    {
+      "match_id": "EUW1_7679838865",
+      "result": "L",
+      "timestamp": 1768089745474
+    },
+    {
+      "match_id": "EUW1_7679765345",
+      "result": "L",
+      "timestamp": 1768087172283
+    },
+    {
+      "match_id": "EUW1_7679695540",
+      "result": "W",
+      "timestamp": 1768084727910
+    },
+    {
+      "match_id": "EUW1_7678381884",
+      "result": "L",
+      "timestamp": 1768034694898
+    },
+    {
+      "match_id": "EUW1_7678368675",
+      "result": "W",
+      "timestamp": 1768032660897
+    },
+    {
+      "match_id": "EUW1_7678357557",
+      "result": "L",
+      "timestamp": 1768030347323
+    },
+    {
+      "match_id": "EUW1_7678353523",
+      "result": "W",
+      "timestamp": 1768028478258
+    },
+    {
+      "match_id": "EUW1_7678343843",
+      "result": "W",
+      "timestamp": 1768026488514
+    },
+    {
+      "match_id": "EUW1_7678334947",
+      "result": "W",
+      "timestamp": 1768024577926
+    },
+    {
+      "match_id": "EUW1_7678332489",
+      "result": "L",
+      "timestamp": 1768022340692
+    },
+    {
+      "match_id": "EUW1_7678324574",
+      "result": "W",
+      "timestamp": 1768020390306
+    },
+    {
+      "match_id": "EUW1_7678308259",
+      "result": "W",
+      "timestamp": 1768018052923
+    },
+    {
+      "match_id": "EUW1_7678297404",
+      "result": "W",
+      "timestamp": 1768016022781
+    },
+    {
+      "match_id": "EUW1_7678294879",
+      "result": "W",
+      "timestamp": 1768014667589
+    },
+    {
+      "match_id": "EUW1_7678285583",
+      "result": "W",
+      "timestamp": 1768012859567
+    },
+    {
+      "match_id": "EUW1_7678259005",
+      "result": "W",
+      "timestamp": 1768010757536
+    },
+    {
+      "match_id": "EUW1_7678227891",
+      "result": "W",
+      "timestamp": 1768008030718
+    },
+    {
+      "match_id": "EUW1_7678201504",
+      "result": "L",
+      "timestamp": 1768006215551
+    },
+    {
+      "match_id": "EUW1_7678120714",
+      "result": "W",
+      "timestamp": 1768002741426
+    },
+    {
+      "match_id": "EUW1_7678024168",
+      "result": "L",
+      "timestamp": 1767999595797
+    },
+    {
+      "match_id": "EUW1_7677922914",
+      "result": "W",
+      "timestamp": 1767996641117
+    },
+    {
+      "match_id": "EUW1_7677847198",
+      "result": "L",
+      "timestamp": 1767994703529
+    },
+    {
+      "match_id": "EUW1_7676613271",
+      "result": "L",
+      "timestamp": 1767925260996
+    },
+    {
+      "match_id": "EUW1_7676598488",
+      "result": "W",
+      "timestamp": 1767922789753
+    },
+    {
+      "match_id": "EUW1_7676572921",
+      "result": "L",
+      "timestamp": 1767920891507
+    },
+    {
+      "match_id": "EUW1_7676538515",
+      "result": "W",
+      "timestamp": 1767918410428
+    },
+    {
+      "match_id": "EUW1_7676469493",
+      "result": "W",
+      "timestamp": 1767915570049
+    },
+    {
+      "match_id": "EUW1_7676406188",
+      "result": "L",
+      "timestamp": 1767913222470
+    },
+    {
+      "match_id": "EUW1_7675204201",
+      "result": "L",
+      "timestamp": 1767828822611
+    },
+    {
+      "match_id": "EUW1_7675167031",
+      "result": "W",
+      "timestamp": 1767826809992
+    },
+    {
+      "match_id": "EUW1_7675105256",
+      "result": "L",
+      "timestamp": 1767824206998
+    },
+    {
+      "match_id": "EUW1_7675053554",
+      "result": "L",
+      "timestamp": 1767822072172
+    },
+    {
+      "match_id": "EUW1_7674961025",
+      "result": "L",
+      "timestamp": 1767819155447
+    },
+    {
+      "match_id": "EUW1_7674888831",
+      "result": "W",
+      "timestamp": 1767816765473
+    },
+    {
+      "match_id": "EUW1_7674802251",
+      "result": "L",
+      "timestamp": 1767813898498
+    },
+    {
+      "match_id": "EUW1_7674737891",
+      "result": "W",
+      "timestamp": 1767811434559
+    },
+    {
+      "match_id": "EUW1_7674642695",
+      "result": "L",
+      "timestamp": 1767807641838
+    },
+    {
+      "match_id": "EUW1_7674580296",
+      "result": "W",
+      "timestamp": 1767805293831
+    },
+    {
+      "match_id": "EUW1_7674524212",
+      "result": "L",
+      "timestamp": 1767802692433
+    },
+    {
+      "match_id": "EUW1_7674471420",
+      "result": "W",
+      "timestamp": 1767800219648
+    },
+    {
+      "match_id": "EUW1_7674396888",
+      "result": "L",
+      "timestamp": 1767796169682
+    },
+    {
+      "match_id": "EUW1_7674359436",
+      "result": "W",
+      "timestamp": 1767794231173
+    },
+    {
+      "match_id": "EUW1_7674324501",
+      "result": "W",
+      "timestamp": 1767791463305
+    },
+    {
+      "match_id": "EUW1_7674275944",
+      "result": "W",
+      "timestamp": 1767788550997
+    },
+    {
+      "match_id": "EUW1_7674230064",
+      "result": "L",
+      "timestamp": 1767785003055
+    },
+    {
+      "match_id": "EUW1_7674207321",
+      "result": "W",
+      "timestamp": 1767783248464
+    },
+    {
+      "match_id": "EUW1_7674052224",
+      "result": "L",
+      "timestamp": 1767751802114
+    },
+    {
+      "match_id": "EUW1_7673886128",
+      "result": "L",
+      "timestamp": 1767739455534
+    },
+    {
+      "match_id": "EUW1_7673814337",
+      "result": "L",
+      "timestamp": 1767736698908
+    },
+    {
+      "match_id": "EUW1_7673755635",
+      "result": "L",
+      "timestamp": 1767734539647
+    },
+    {
+      "match_id": "EUW1_7673680707",
+      "result": "W",
+      "timestamp": 1767732141565
+    },
+    {
+      "match_id": "EUW1_7673598232",
+      "result": "W",
+      "timestamp": 1767729746923
+    },
+    {
+      "match_id": "EUW1_7673514952",
+      "result": "L",
+      "timestamp": 1767727036813
+    },
+    {
+      "match_id": "EUW1_7673434943",
+      "result": "L",
+      "timestamp": 1767724142083
+    },
+    {
+      "match_id": "EUW1_7673389711",
+      "result": "W",
+      "timestamp": 1767722277313
+    },
+    {
+      "match_id": "EUW1_7673312181",
+      "result": "L",
+      "timestamp": 1767719204520
+    },
+    {
+      "match_id": "EUW1_7673233496",
+      "result": "W",
+      "timestamp": 1767715684245
+    },
+    {
+      "match_id": "EUW1_7673171137",
+      "result": "W",
+      "timestamp": 1767712971246
+    },
+    {
+      "match_id": "EUW1_7673122335",
+      "result": "W",
+      "timestamp": 1767710536952
+    },
+    {
+      "match_id": "EUW1_7673075935",
+      "result": "W",
+      "timestamp": 1767707969999
+    },
+    {
+      "match_id": "EUW1_7673045483",
+      "result": "W",
+      "timestamp": 1767706040455
+    },
+    {
+      "match_id": "EUW1_7672667943",
+      "result": "L",
+      "timestamp": 1767658768169
+    },
+    {
+      "match_id": "EUW1_7672632671",
+      "result": "L",
+      "timestamp": 1767656502544
+    },
+    {
+      "match_id": "EUW1_7672591320",
+      "result": "W",
+      "timestamp": 1767654774261
+    },
+    {
+      "match_id": "EUW1_7672534501",
+      "result": "W",
+      "timestamp": 1767652278455
+    },
+    {
+      "match_id": "EUW1_7672469173",
+      "result": "W",
+      "timestamp": 1767650159020
+    },
+    {
+      "match_id": "EUW1_7672409713",
+      "result": "W",
+      "timestamp": 1767648078524
+    },
+    {
+      "match_id": "EUW1_7672336676",
+      "result": "W",
+      "timestamp": 1767645815307
+    },
+    {
+      "match_id": "EUW1_7671936072",
+      "result": "W",
+      "timestamp": 1767631501555
+    },
+    {
+      "match_id": "EUW1_7671196617",
+      "result": "L",
+      "timestamp": 1767555582863
+    },
+    {
+      "match_id": "EUW1_7671096041",
+      "result": "L",
+      "timestamp": 1767552340590
+    },
+    {
+      "match_id": "EUW1_7671020698",
+      "result": "W",
+      "timestamp": 1767549628375
+    },
+    {
+      "match_id": "EUW1_7670923889",
+      "result": "W",
+      "timestamp": 1767546179370
+    },
+    {
+      "match_id": "EUW1_7670868355",
+      "result": "L",
+      "timestamp": 1767544404093
+    },
+    {
+      "match_id": "EUW1_7670401413",
+      "result": "L",
+      "timestamp": 1767522191009
+    },
+    {
+      "match_id": "EUW1_7670379754",
+      "result": "W",
+      "timestamp": 1767519642641
+    },
+    {
+      "match_id": "EUW1_7670358291",
+      "result": "W",
+      "timestamp": 1767517423725
+    },
+    {
+      "match_id": "EUW1_7667707119",
+      "result": "L",
+      "timestamp": 1767362382345
+    },
+    {
+      "match_id": "EUW1_7667670587",
+      "result": "L",
+      "timestamp": 1767360542788
+    },
+    {
+      "match_id": "EUW1_7667629284",
+      "result": "L",
+      "timestamp": 1767358662852
+    },
+    {
+      "match_id": "EUW1_7667596990",
+      "result": "L",
+      "timestamp": 1767356329310
+    },
+    {
+      "match_id": "EUW1_7667559661",
+      "result": "W",
+      "timestamp": 1767353918618
+    },
+    {
+      "match_id": "EUW1_7667527643",
+      "result": "L",
+      "timestamp": 1767351550025
+    },
+    {
+      "match_id": "EUW1_7667500506",
+      "result": "W",
+      "timestamp": 1767348966330
+    },
+    {
+      "match_id": "EUW1_7667474392",
+      "result": "W",
+      "timestamp": 1767346869277
+    },
+    {
+      "match_id": "EUW1_7667461819",
+      "result": "W",
+      "timestamp": 1767344717735
+    }
   ],
+  "last_updated": 1776394603.4619172,
+  "ranked_stats": {
+    "wins": 265,
+    "losses": 274
+  },
   "puuid": "adTLLa716j32yY0YAS3e--BGqM-c4eiuIPAjv5-NymH-JbizmW-SeFM7b6SJuq5ZOOsOQJhvqJoLmA"
 }

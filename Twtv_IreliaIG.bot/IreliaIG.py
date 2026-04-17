@@ -55,6 +55,11 @@ def load_config():
 
 load_config()
 
+# Check if using default API key
+if config.get('RIOT', 'api_key') == 'RGAPI-4b2d6c1f-584d-458a-8a55-177b8cf985c9':
+    logger.warning("Using default Riot API key - please update bot_config.ini with a valid key")
+    print("⚠️  WARNING: Using default API key. Update bot_config.ini with your Riot API key.")
+
 # Load from config
 RIOT_API_KEY = config.get('RIOT', 'api_key')
 GAME_NAME = config.get('RIOT', 'game_name')
@@ -68,13 +73,37 @@ SLEEP_IN_GAME = config.getint('BOT', 'sleep_in_game')
 SLEEP_OUT_GAME = config.getint('BOT', 'sleep_out_game')
 
 # ================== CHAMPIONS ================== #
+CHAMPIONS_FILE = "champions.json"
+
 def cargar_campeones():
+    """Load champions from cache or API"""
+    if os.path.exists(CHAMPIONS_FILE):
+        try:
+            with open(CHAMPIONS_FILE, "r", encoding='utf-8') as f:
+                data = json.load(f)
+            print("✅ Champions loaded from cache")
+            return data
+        except Exception as e:
+            print(f"❌ Error loading champions cache: {e}")
+    
+    # Fetch from API
+    print("🔄 Fetching champions from API...")
     url = "https://ddragon.leagueoflegends.com/cdn/13.24.1/data/en_US/champion.json"
-    data = requests.get(url).json()["data"]
+    response = requests.get(url)
+    response.raise_for_status()
+    data = response.json()["data"]
 
     champ_dict = {}
     for champ in data.values():
         champ_dict[int(champ["key"])] = champ["id"]
+
+    # Save to cache
+    try:
+        with open(CHAMPIONS_FILE, "w", encoding='utf-8') as f:
+            json.dump(champ_dict, f)
+        print("✅ Champions cached")
+    except Exception as e:
+        print(f"❌ Error saving champions cache: {e}")
 
     return champ_dict
 
@@ -554,23 +583,23 @@ def save_match_cache(cache_data, puuid=None):
             except Exception as e2:
                 logger.error(f"Failed to restore backup: {e2}")
 
-def update_match_cache(puuid):
+def update_match_cache(puuid, max_matches=50):
     """Update the match cache with latest data"""
-    print("🔄 Updating match cache...")
+    print(f"🔄 Updating match cache (max {max_matches} matches)...")
     try:
-        # Get all matches
-        matches = get_matches(puuid, count=None)
+        # Get recent matches
+        matches = get_matches(puuid, count=max_matches)
         if not matches:
             print("⚠️ No matches to cache")
             return
 
-        # Process all matches for ranked stats
+        # Process matches for ranked stats
         wins = 0
         losses = 0
         processed_matches = []
 
         for i, match_id in enumerate(matches):
-            if i % 50 == 0 and i > 0:
+            if i % 20 == 0 and i > 0:
                 print(f"📊 Processing match {i+1}/{len(matches)}")
             match_data = get_match_data(match_id)
             if not match_data or "info" not in match_data:

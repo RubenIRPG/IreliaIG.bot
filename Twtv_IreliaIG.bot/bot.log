@@ -595,3 +595,61 @@
 2026-04-17 03:50:39,975 - INFO - Successfully retrieved PUUID for DontTalkToHumans#RPG
 2026-04-17 03:51:02,847 - WARNING - Rate limit reached, waiting 97.0 seconds
 2026-04-17 03:53:03,786 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-17 03:55:03,878 - WARNING - Rate limit reached, waiting 95.9 seconds
+2026-04-17 03:57:03,816 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-17 03:59:03,857 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-17 04:01:03,786 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-17 04:03:03,952 - WARNING - Rate limit reached, waiting 95.9 seconds
+2026-04-17 04:05:03,780 - WARNING - Rate limit reached, waiting 96.1 seconds
+2026-04-17 04:07:03,809 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-17 04:09:03,937 - WARNING - Rate limit reached, waiting 95.9 seconds
+2026-04-17 04:11:03,798 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-17 04:13:03,860 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-17 04:15:03,897 - WARNING - Rate limit reached, waiting 95.9 seconds
+2026-04-17 04:17:03,862 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-17 04:19:03,809 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-17 04:21:03,877 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-17 04:23:03,927 - WARNING - Rate limit reached, waiting 95.9 seconds
+2026-04-17 04:25:03,832 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-17 04:27:03,855 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-17 04:29:03,861 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-17 04:31:03,866 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-17 04:33:03,882 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-17 04:35:03,882 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-17 04:37:03,886 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-17 04:39:03,920 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-17 04:41:03,873 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-17 04:43:03,899 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-17 04:45:03,875 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-17 04:47:03,907 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-17 04:49:03,876 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-17 04:51:03,864 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-17 04:53:03,945 - WARNING - Rate limit reached, waiting 95.9 seconds
+2026-04-17 04:55:03,884 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-17 04:56:44,657 - ERROR - API key expired or insufficient permissions
+2026-04-17 04:56:44,659 - INFO - Spectator API unavailable or player not in game
+2026-04-17 04:57:11,524 - ERROR - Websocket connection was closed: None
+2026-04-17 04:57:12,562 - INFO - Successfully logged onto Twitch WS: ireliaig99
+2026-04-17 04:58:48,446 - ERROR - API key expired or insufficient permissions
+2026-04-17 04:58:48,447 - INFO - Spectator API unavailable or player not in game
+2026-04-17 05:00:50,946 - ERROR - API key expired or insufficient permissions
+2026-04-17 05:00:50,948 - INFO - Spectator API unavailable or player not in game
+2026-04-17 05:02:53,522 - ERROR - API key expired or insufficient permissions
+2026-04-17 05:02:53,524 - INFO - Spectator API unavailable or player not in game
+2026-04-17 05:04:57,230 - ERROR - API key expired or insufficient permissions
+2026-04-17 05:04:57,231 - INFO - Spectator API unavailable or player not in game
+2026-04-17 05:06:59,840 - ERROR - API key expired or insufficient permissions
+2026-04-17 05:06:59,841 - INFO - Spectator API unavailable or player not in game
+2026-04-17 05:09:02,455 - ERROR - API key expired or insufficient permissions
+2026-04-17 05:09:02,457 - INFO - Spectator API unavailable or player not in game
+2026-04-17 05:11:06,171 - ERROR - API key expired or insufficient permissions
+2026-04-17 05:11:06,172 - INFO - Spectator API unavailable or player not in game
+2026-04-17 05:12:21,544 - INFO - Configuration loaded from file
+2026-04-17 05:14:14,480 - INFO - Configuration loaded from file
+2026-04-17 05:14:14,480 - WARNING - Using default Riot API key - please update bot_config.ini with a valid key
+2026-04-17 05:14:16,422 - INFO - Successfully logged onto Twitch WS: ireliaig99
+2026-04-17 05:14:16,675 - INFO - Successfully retrieved PUUID for DontTalkToHumans#RPG
+2026-04-17 05:14:17,772 - ERROR - API key expired or insufficient permissions
+2026-04-17 05:14:17,773 - INFO - Spectator API unavailable or player not in game
+2026-04-17 05:16:22,822 - ERROR - API key expired or insufficient permissions
+2026-04-17 05:16:22,823 - INFO - Spectator API unavailable or player not in game
