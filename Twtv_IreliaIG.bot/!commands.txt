@@ -1,0 +1,72 @@
+*Twitch Bot Commands - Irelia Bot*
+
+·Public Commands (Available to all viewers)
+ These commands can be used by anyone in the chat.
+
+
+# LEAGUE OF LEGENDS STATS:
+- !rank - Show current League rank and LP
+- !irelia - Show Irelia-specific stats (winrate, KDA from recent games)
+- !last (!lastgame, !ult) - Show result of the last game played
+- !today (!sesion, !todaystats, !hoy) - Show session stats for the last 24 hours with visual game history
+- !wins (!victorias, !w) - Show today's ranked wins (last 24 hours)
+- !losses (!derrotas, !l) - Show today's ranked losses (last 24 hours)
+- !kda (!kd, !stats) - Show average KDA from the last 15 ranked games
+- !winrate (!wr) - Show winrate percentage from the last 15 ranked games
+- !tilt (!tilted, !tilteado) - Check current lose streak
+- !winstreak (!streak, !racha) - Show current win streak
+- !historial` (!history, !games) - Show recent games history
+
+# Time and Info:
+-!hora - Show current time in Europe/Madrid timezone
+
+# Bot Info:
+- !cmd (!help) - List all available commands
+
+·Moderator Commands (Owner and Channel Moderators)
+ These commands require moderator permissions or ownership.
+
+# MAINTENANCE AND REFRESH:
+- !rankrefresh - Manually refresh the current rank from Riot API
+- !clearcache - Clear the match cache (resets stored match data)
+- !refresh - Rebuild match cache from Riot API (may take time)
+- !health - Check bot health, API status, and configuration
+
+# STATS MANAGMENT:
+- !clearlose - Remove the most recent loss from today's stats (useful for remakes or false losses)
+- !setstreak <number>` - Manually set the current win streak (e.g., !setstreak 5)
+
+·Owner Commands (Bot Owner Only)
+ These commands are restricted to the bot owner.
+
+- !apistatus - Check detailed API status and connectivity
+- !updatekey <key> - Update the Riot API key (format: RGAPI-xxxxx)
+
+Automatic Features
+The bot automatically posts detailed game end messages for all ranked games, including:
+- Champion played
+- K/D/A ratio
+- Kill Participation percentage
+- Total damage dealt
+- Game duration
+- CS per minute
+- Gold per minute
+- Damage per minute
+- Self-mitigated damage per minute
+- CC time per minute
+- Vision score per minute
+
+Messages are sent automatically when a game ends, no command needed.
+
+## Notes
+- All commands have a 3-second cooldown per user to prevent spam
+- Some commands may show "API error" if Riot API is down or key is invalid
+- Win/loss streaks are tracked automatically and persist across bot restarts
+- Today's stats reset every 24 hours from the first game of the session
+
+## Permissions
+- Public: Anyone can use
+- Moderator: Channel moderators and bot owner
+- Owner: Only the bot owner (ruben_irpg)
+
+For more details or to report issues, contact the bot owner.

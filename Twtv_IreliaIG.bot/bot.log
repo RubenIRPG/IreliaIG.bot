@@ -1,0 +1,597 @@
+2026-04-16 17:26:21,046 - INFO - Default configuration created
+2026-04-16 17:26:23,406 - INFO - Successfully logged onto Twitch WS: ireliaig99
+2026-04-16 17:26:23,592 - INFO - Successfully retrieved PUUID for estufa70#RPG
+2026-04-16 17:26:24,763 - ERROR - API key expired or insufficient permissions
+2026-04-16 17:26:24,764 - INFO - Spectator API unavailable or player not in game
+2026-04-16 17:26:29,533 - ERROR - API key expired or insufficient permissions
+2026-04-16 17:26:29,534 - INFO - Spectator API unavailable or player not in game
+2026-04-16 17:27:07,827 - WARNING - Rate limit reached, waiting 75.6 seconds
+2026-04-16 17:30:37,912 - INFO - Configuration loaded from file
+2026-04-16 17:30:39,824 - INFO - Successfully logged onto Twitch WS: ireliaig99
+2026-04-16 17:30:39,959 - INFO - Successfully retrieved PUUID for DontTalkToHumans#RPG
+2026-04-16 17:30:39,962 - INFO - Cache PUUID mismatch: cache has SFpzMV9UaRchdbjq-LUIsPcl-yRH3AZWQMbi8zfTzrRCrwYFeu_P1HRKbyC-DjLxdNPza2nS-3f2fw, current is adTLLa716j32yY0YAS3e--BGqM-c4eiuIPAjv5-NymH-JbizmW-SeFM7b6SJuq5ZOOsOQJhvqJoLmA
+2026-04-16 17:31:02,841 - WARNING - Rate limit reached, waiting 97.0 seconds
+2026-04-16 17:33:03,835 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-16 17:35:03,932 - WARNING - Rate limit reached, waiting 95.9 seconds
+2026-04-16 17:37:03,902 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-16 17:39:03,874 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-16 17:41:03,795 - WARNING - Rate limit reached, waiting 96.1 seconds
+2026-04-16 17:43:03,968 - WARNING - Rate limit reached, waiting 95.9 seconds
+2026-04-16 17:45:03,779 - WARNING - Rate limit reached, waiting 96.1 seconds
+2026-04-16 17:47:03,908 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-16 17:49:03,834 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-16 17:51:03,889 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-16 17:53:03,883 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-16 17:55:03,909 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-16 17:57:03,909 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-16 17:59:03,829 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-16 18:01:03,908 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-16 18:03:03,888 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-16 18:05:03,948 - WARNING - Rate limit reached, waiting 95.9 seconds
+2026-04-16 18:07:03,939 - WARNING - Rate limit reached, waiting 95.9 seconds
+2026-04-16 18:09:03,808 - WARNING - Rate limit reached, waiting 96.1 seconds
+2026-04-16 18:11:03,882 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-16 18:13:03,926 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-16 18:15:03,886 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-16 18:17:03,945 - WARNING - Rate limit reached, waiting 95.9 seconds
+2026-04-16 18:19:03,906 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-16 18:21:03,999 - WARNING - Rate limit reached, waiting 95.9 seconds
+2026-04-16 18:23:03,800 - WARNING - Rate limit reached, waiting 96.1 seconds
+2026-04-16 18:25:03,934 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-16 18:27:03,957 - WARNING - Rate limit reached, waiting 95.9 seconds
+2026-04-16 18:29:03,847 - WARNING - Rate limit reached, waiting 96.1 seconds
+2026-04-16 18:31:04,028 - WARNING - Rate limit reached, waiting 95.9 seconds
+2026-04-16 18:33:03,853 - WARNING - Rate limit reached, waiting 96.1 seconds
+2026-04-16 18:35:03,909 - WARNING - Rate limit reached, waiting 96.0 seconds
+2026-04-16 18:36:44,632 - ERROR - API key expired or insufficient permissions
+2026-04-16 18:36:44,633 - INFO - Spectator API unavailable or player not in game
+2026-04-16 18:36:49,419 - ERROR - API key expired or insufficient permissions
+2026-04-16 18:36:49,420 - INFO - Spectator API unavailable or player not in game
+2026-04-16 18:37:15,435 - ERROR - Websocket connection was closed: None
+2026-04-16 18:37:16,474 - INFO - Successfully logged onto Twitch WS: ireliaig99
+2026-04-16 18:38:52,031 - ERROR - API key expired or insufficient permissions
+2026-04-16 18:38:52,032 - INFO - Spectator API unavailable or player not in game
+2026-04-16 18:40:54,608 - ERROR - API key expired or insufficient permissions
+2026-04-16 18:40:54,610 - INFO - Spectator API unavailable or player not in game
+2026-04-16 18:42:57,143 - ERROR - API key expired or insufficient permissions
+2026-04-16 18:42:57,143 - INFO - Spectator API unavailable or player not in game
+2026-04-16 18:45:00,942 - ERROR - API key expired or insufficient permissions
+2026-04-16 18:45:00,943 - INFO - Spectator API unavailable or player not in game
+2026-04-16 18:47:03,508 - ERROR - API key expired or insufficient permissions
+2026-04-16 18:47:03,509 - INFO - Spectator API unavailable or player not in game
+2026-04-16 18:49:06,062 - ERROR - API key expired or insufficient permissions
+2026-04-16 18:49:06,063 - INFO - Spectator API unavailable or player not in game
+2026-04-16 18:51:09,854 - ERROR - API key expired or insufficient permissions
+2026-04-16 18:51:09,856 - INFO - Spectator API unavailable or player not in game
+2026-04-16 18:53:12,431 - ERROR - API key expired or insufficient permissions
+2026-04-16 18:53:12,432 - INFO - Spectator API unavailable or player not in game
+2026-04-16 18:55:15,051 - ERROR - API key expired or insufficient permissions
+2026-04-16 18:55:15,052 - INFO - Spectator API unavailable or player not in game
+2026-04-16 18:57:18,827 - ERROR - API key expired or insufficient permissions
+2026-04-16 18:57:18,828 - INFO - Spectator API unavailable or player not in game
+2026-04-16 18:59:21,394 - ERROR - API key expired or insufficient permissions
+2026-04-16 18:59:21,395 - INFO - Spectator API unavailable or player not in game
+2026-04-16 19:01:23,967 - ERROR - API key expired or insufficient permissions
+2026-04-16 19:01:23,967 - INFO - Spectator API unavailable or player not in game
+2026-04-16 19:03:27,752 - ERROR - API key expired or insufficient permissions
+2026-04-16 19:03:27,753 - INFO - Spectator API unavailable or player not in game
+2026-04-16 19:05:30,333 - ERROR - API key expired or insufficient permissions
+2026-04-16 19:05:30,335 - INFO - Spectator API unavailable or player not in game
+2026-04-16 19:07:32,878 - ERROR - API key expired or insufficient permissions
+2026-04-16 19:07:32,879 - INFO - Spectator API unavailable or player not in game
+2026-04-16 19:09:36,634 - ERROR - API key expired or insufficient permissions
+2026-04-16 19:09:36,635 - INFO - Spectator API unavailable or player not in game
+2026-04-16 19:11:39,214 - ERROR - API key expired or insufficient permissions
+2026-04-16 19:11:39,215 - INFO - Spectator API unavailable or player not in game
+2026-04-16 19:13:41,823 - ERROR - API key expired or insufficient permissions
+2026-04-16 19:13:41,824 - INFO - Spectator API unavailable or player not in game
+2026-04-16 19:15:45,569 - ERROR - API key expired or insufficient permissions
+2026-04-16 19:15:45,571 - INFO - Spectator API unavailable or player not in game
+2026-04-16 19:17:48,154 - ERROR - API key expired or insufficient permissions
+2026-04-16 19:17:48,155 - INFO - Spectator API unavailable or player not in game
+2026-04-16 19:19:50,713 - ERROR - API key expired or insufficient permissions
+2026-04-16 19:19:50,714 - INFO - Spectator API unavailable or player not in game
+2026-04-16 19:21:54,515 - ERROR - API key expired or insufficient permissions
+2026-04-16 19:21:54,516 - INFO - Spectator API unavailable or player not in game
+2026-04-16 19:23:57,120 - ERROR - API key expired or insufficient permissions
+2026-04-16 19:23:57,122 - INFO - Spectator API unavailable or player not in game
+2026-04-16 19:25:59,706 - ERROR - API key expired or insufficient permissions
+2026-04-16 19:25:59,708 - INFO - Spectator API unavailable or player not in game
+2026-04-16 19:28:03,428 - ERROR - API key expired or insufficient permissions
+2026-04-16 19:28:03,429 - INFO - Spectator API unavailable or player not in game
+2026-04-16 19:30:06,031 - ERROR - API key expired or insufficient permissions
+2026-04-16 19:30:06,032 - INFO - Spectator API unavailable or player not in game
+2026-04-16 19:32:08,629 - ERROR - API key expired or insufficient permissions
+2026-04-16 19:32:08,630 - INFO - Spectator API unavailable or player not in game
+2026-04-16 19:34:12,416 - ERROR - API key expired or insufficient permissions
+2026-04-16 19:34:12,417 - INFO - Spectator API unavailable or player not in game
+2026-04-16 19:36:14,996 - ERROR - API key expired or insufficient permissions
+2026-04-16 19:36:14,997 - INFO - Spectator API unavailable or player not in game
+2026-04-16 19:38:17,589 - ERROR - API key expired or insufficient permissions
+2026-04-16 19:38:17,590 - INFO - Spectator API unavailable or player not in game
+2026-04-16 19:40:21,370 - ERROR - API key expired or insufficient permissions
+2026-04-16 19:40:21,371 - INFO - Spectator API unavailable or player not in game
+2026-04-16 19:42:23,972 - ERROR - API key expired or insufficient permissions
+2026-04-16 19:42:23,973 - INFO - Spectator API unavailable or player not in game
+2026-04-16 19:44:26,626 - ERROR - API key expired or insufficient permissions
+2026-04-16 19:44:26,627 - INFO - Spectator API unavailable or player not in game
+2026-04-16 19:46:30,369 - ERROR - API key expired or insufficient permissions
+2026-04-16 19:46:30,369 - INFO - Spectator API unavailable or player not in game
+2026-04-16 19:48:32,894 - ERROR - API key expired or insufficient permissions
+2026-04-16 19:48:32,895 - INFO - Spectator API unavailable or player not in game
+2026-04-16 19:50:35,509 - ERROR - API key expired or insufficient permissions
+2026-04-16 19:50:35,510 - INFO - Spectator API unavailable or player not in game
+2026-04-16 19:52:39,331 - ERROR - API key expired or insufficient permissions
+2026-04-16 19:52:39,332 - INFO - Spectator API unavailable or player not in game
+2026-04-16 19:54:41,964 - ERROR - API key expired or insufficient permissions
+2026-04-16 19:54:41,965 - INFO - Spectator API unavailable or player not in game
+2026-04-16 19:56:44,550 - ERROR - API key expired or insufficient permissions
+2026-04-16 19:56:44,551 - INFO - Spectator API unavailable or player not in game
+2026-04-16 19:58:48,294 - ERROR - API key expired or insufficient permissions
+2026-04-16 19:58:48,295 - INFO - Spectator API unavailable or player not in game
+2026-04-16 20:00:50,834 - ERROR - API key expired or insufficient permissions
+2026-04-16 20:00:50,835 - INFO - Spectator API unavailable or player not in game
+2026-04-16 20:02:53,403 - ERROR - API key expired or insufficient permissions
+2026-04-16 20:02:53,404 - INFO - Spectator API unavailable or player not in game
+2026-04-16 20:04:57,101 - ERROR - API key expired or insufficient permissions
+2026-04-16 20:04:57,102 - INFO - Spectator API unavailable or player not in game
+2026-04-16 20:06:59,755 - ERROR - API key expired or insufficient permissions
+2026-04-16 20:06:59,756 - INFO - Spectator API unavailable or player not in game
+2026-04-16 20:09:02,467 - ERROR - API key expired or insufficient permissions
+2026-04-16 20:09:02,468 - INFO - Spectator API unavailable or player not in game
+2026-04-16 20:11:06,221 - ERROR - API key expired or insufficient permissions
+2026-04-16 20:11:06,221 - INFO - Spectator API unavailable or player not in game
+2026-04-16 20:13:08,862 - ERROR - API key expired or insufficient permissions
+2026-04-16 20:13:08,863 - INFO - Spectator API unavailable or player not in game
+2026-04-16 20:15:11,402 - ERROR - API key expired or insufficient permissions
+2026-04-16 20:15:11,403 - INFO - Spectator API unavailable or player not in game
+2026-04-16 20:17:15,174 - ERROR - API key expired or insufficient permissions
+2026-04-16 20:17:15,175 - INFO - Spectator API unavailable or player not in game
+2026-04-16 20:19:17,711 - ERROR - API key expired or insufficient permissions
+2026-04-16 20:19:17,711 - INFO - Spectator API unavailable or player not in game
+2026-04-16 20:21:20,337 - ERROR - API key expired or insufficient permissions
+2026-04-16 20:21:20,338 - INFO - Spectator API unavailable or player not in game
+2026-04-16 20:23:24,019 - ERROR - API key expired or insufficient permissions
+2026-04-16 20:23:24,020 - INFO - Spectator API unavailable or player not in game
+2026-04-16 20:25:26,581 - ERROR - API key expired or insufficient permissions
+2026-04-16 20:25:26,582 - INFO - Spectator API unavailable or player not in game
+2026-04-16 20:27:29,288 - ERROR - API key expired or insufficient permissions
+2026-04-16 20:27:29,289 - INFO - Spectator API unavailable or player not in game
+2026-04-16 20:29:33,077 - ERROR - API key expired or insufficient permissions
+2026-04-16 20:29:33,078 - INFO - Spectator API unavailable or player not in game
+2026-04-16 20:31:35,714 - ERROR - API key expired or insufficient permissions
+2026-04-16 20:31:35,715 - INFO - Spectator API unavailable or player not in game
+2026-04-16 20:33:38,259 - ERROR - API key expired or insufficient permissions
+2026-04-16 20:33:38,261 - INFO - Spectator API unavailable or player not in game
+2026-04-16 20:35:42,036 - ERROR - API key expired or insufficient permissions
+2026-04-16 20:35:42,036 - INFO - Spectator API unavailable or player not in game
+2026-04-16 20:37:44,590 - ERROR - API key expired or insufficient permissions
+2026-04-16 20:37:44,591 - INFO - Spectator API unavailable or player not in game
+2026-04-16 20:39:47,165 - ERROR - API key expired or insufficient permissions
+2026-04-16 20:39:47,166 - INFO - Spectator API unavailable or player not in game
+2026-04-16 20:41:50,878 - ERROR - API key expired or insufficient permissions
+2026-04-16 20:41:50,879 - INFO - Spectator API unavailable or player not in game
+2026-04-16 20:43:53,454 - ERROR - API key expired or insufficient permissions
+2026-04-16 20:43:53,455 - INFO - Spectator API unavailable or player not in game
+2026-04-16 20:45:56,042 - ERROR - API key expired or insufficient permissions
+2026-04-16 20:45:56,043 - INFO - Spectator API unavailable or player not in game
+2026-04-16 20:47:59,852 - ERROR - API key expired or insufficient permissions
+2026-04-16 20:47:59,854 - INFO - Spectator API unavailable or player not in game
+2026-04-16 20:50:02,395 - ERROR - API key expired or insufficient permissions
+2026-04-16 20:50:02,397 - INFO - Spectator API unavailable or player not in game
+2026-04-16 20:52:04,968 - ERROR - API key expired or insufficient permissions
+2026-04-16 20:52:04,970 - INFO - Spectator API unavailable or player not in game
+2026-04-16 20:54:08,719 - ERROR - API key expired or insufficient permissions
+2026-04-16 20:54:08,720 - INFO - Spectator API unavailable or player not in game
+2026-04-16 20:56:11,263 - ERROR - API key expired or insufficient permissions
+2026-04-16 20:56:11,264 - INFO - Spectator API unavailable or player not in game
+2026-04-16 20:58:13,846 - ERROR - API key expired or insufficient permissions
+2026-04-16 20:58:13,847 - INFO - Spectator API unavailable or player not in game
+2026-04-16 21:00:17,646 - ERROR - API key expired or insufficient permissions
+2026-04-16 21:00:17,648 - INFO - Spectator API unavailable or player not in game
+2026-04-16 21:02:20,173 - ERROR - API key expired or insufficient permissions
+2026-04-16 21:02:20,174 - INFO - Spectator API unavailable or player not in game
+2026-04-16 21:04:22,744 - ERROR - API key expired or insufficient permissions
+2026-04-16 21:04:22,745 - INFO - Spectator API unavailable or player not in game
+2026-04-16 21:06:26,520 - ERROR - API key expired or insufficient permissions
+2026-04-16 21:06:26,521 - INFO - Spectator API unavailable or player not in game
+2026-04-16 21:08:29,050 - ERROR - API key expired or insufficient permissions
+2026-04-16 21:08:29,052 - INFO - Spectator API unavailable or player not in game
+2026-04-16 21:10:31,644 - ERROR - API key expired or insufficient permissions
+2026-04-16 21:10:31,645 - INFO - Spectator API unavailable or player not in game
+2026-04-16 21:12:35,492 - ERROR - API key expired or insufficient permissions
+2026-04-16 21:12:35,493 - INFO - Spectator API unavailable or player not in game
+2026-04-16 21:14:38,022 - ERROR - API key expired or insufficient permissions
+2026-04-16 21:14:38,022 - INFO - Spectator API unavailable or player not in game
+2026-04-16 21:16:40,631 - ERROR - API key expired or insufficient permissions
+2026-04-16 21:16:40,632 - INFO - Spectator API unavailable or player not in game
+2026-04-16 21:18:44,339 - ERROR - API key expired or insufficient permissions
+2026-04-16 21:18:44,339 - INFO - Spectator API unavailable or player not in game
+2026-04-16 21:20:46,930 - ERROR - API key expired or insufficient permissions
+2026-04-16 21:20:46,931 - INFO - Spectator API unavailable or player not in game
+2026-04-16 21:22:49,502 - ERROR - API key expired or insufficient permissions
+2026-04-16 21:22:49,502 - INFO - Spectator API unavailable or player not in game
+2026-04-16 21:24:53,274 - ERROR - API key expired or insufficient permissions
+2026-04-16 21:24:53,275 - INFO - Spectator API unavailable or player not in game
+2026-04-16 21:26:55,819 - ERROR - API key expired or insufficient permissions
+2026-04-16 21:26:55,821 - INFO - Spectator API unavailable or player not in game
+2026-04-16 21:28:58,394 - ERROR - API key expired or insufficient permissions
+2026-04-16 21:28:58,396 - INFO - Spectator API unavailable or player not in game
+2026-04-16 21:31:02,195 - ERROR - API key expired or insufficient permissions
+2026-04-16 21:31:02,197 - INFO - Spectator API unavailable or player not in game
+2026-04-16 21:33:04,789 - ERROR - API key expired or insufficient permissions
+2026-04-16 21:33:04,791 - INFO - Spectator API unavailable or player not in game
+2026-04-16 21:35:07,289 - ERROR - API key expired or insufficient permissions
+2026-04-16 21:35:07,290 - INFO - Spectator API unavailable or player not in game
+2026-04-16 21:37:11,090 - ERROR - API key expired or insufficient permissions
+2026-04-16 21:37:11,091 - INFO - Spectator API unavailable or player not in game
+2026-04-16 21:39:13,670 - ERROR - API key expired or insufficient permissions
+2026-04-16 21:39:13,671 - INFO - Spectator API unavailable or player not in game
+2026-04-16 21:41:16,231 - ERROR - API key expired or insufficient permissions
+2026-04-16 21:41:16,232 - INFO - Spectator API unavailable or player not in game
+2026-04-16 21:43:19,945 - ERROR - API key expired or insufficient permissions
+2026-04-16 21:43:19,947 - INFO - Spectator API unavailable or player not in game
+2026-04-16 21:45:22,498 - ERROR - API key expired or insufficient permissions
+2026-04-16 21:45:22,499 - INFO - Spectator API unavailable or player not in game
+2026-04-16 21:47:25,120 - ERROR - API key expired or insufficient permissions
+2026-04-16 21:47:25,121 - INFO - Spectator API unavailable or player not in game
+2026-04-16 21:49:28,995 - ERROR - API key expired or insufficient permissions
+2026-04-16 21:49:28,997 - INFO - Spectator API unavailable or player not in game
+2026-04-16 21:51:31,653 - ERROR - API key expired or insufficient permissions
+2026-04-16 21:51:31,654 - INFO - Spectator API unavailable or player not in game
+2026-04-16 21:53:34,229 - ERROR - API key expired or insufficient permissions
+2026-04-16 21:53:34,230 - INFO - Spectator API unavailable or player not in game
+2026-04-16 21:55:37,988 - ERROR - API key expired or insufficient permissions
+2026-04-16 21:55:37,989 - INFO - Spectator API unavailable or player not in game
+2026-04-16 21:57:40,579 - ERROR - API key expired or insufficient permissions
+2026-04-16 21:57:40,580 - INFO - Spectator API unavailable or player not in game
+2026-04-16 21:59:43,132 - ERROR - API key expired or insufficient permissions
+2026-04-16 21:59:43,133 - INFO - Spectator API unavailable or player not in game
+2026-04-16 22:01:46,835 - ERROR - API key expired or insufficient permissions
+2026-04-16 22:01:46,836 - INFO - Spectator API unavailable or player not in game
+2026-04-16 22:03:49,417 - ERROR - API key expired or insufficient permissions
+2026-04-16 22:03:49,418 - INFO - Spectator API unavailable or player not in game
+2026-04-16 22:05:52,062 - ERROR - API key expired or insufficient permissions
+2026-04-16 22:05:52,064 - INFO - Spectator API unavailable or player not in game
+2026-04-16 22:07:55,782 - ERROR - API key expired or insufficient permissions
+2026-04-16 22:07:55,783 - INFO - Spectator API unavailable or player not in game
+2026-04-16 22:09:58,366 - ERROR - API key expired or insufficient permissions
+2026-04-16 22:09:58,368 - INFO - Spectator API unavailable or player not in game
+2026-04-16 22:12:00,915 - ERROR - API key expired or insufficient permissions
+2026-04-16 22:12:00,916 - INFO - Spectator API unavailable or player not in game
+2026-04-16 22:14:04,724 - ERROR - API key expired or insufficient permissions
+2026-04-16 22:14:04,725 - INFO - Spectator API unavailable or player not in game
+2026-04-16 22:16:07,315 - ERROR - API key expired or insufficient permissions
+2026-04-16 22:16:07,317 - INFO - Spectator API unavailable or player not in game
+2026-04-16 22:18:09,928 - ERROR - API key expired or insufficient permissions
+2026-04-16 22:18:09,929 - INFO - Spectator API unavailable or player not in game
+2026-04-16 22:20:13,695 - ERROR - API key expired or insufficient permissions
+2026-04-16 22:20:13,696 - INFO - Spectator API unavailable or player not in game
+2026-04-16 22:22:16,296 - ERROR - API key expired or insufficient permissions
+2026-04-16 22:22:16,296 - INFO - Spectator API unavailable or player not in game
+2026-04-16 22:24:18,815 - ERROR - API key expired or insufficient permissions
+2026-04-16 22:24:18,817 - INFO - Spectator API unavailable or player not in game
+2026-04-16 22:26:22,681 - ERROR - API key expired or insufficient permissions
+2026-04-16 22:26:22,683 - INFO - Spectator API unavailable or player not in game
+2026-04-16 22:28:25,313 - ERROR - API key expired or insufficient permissions
+2026-04-16 22:28:25,314 - INFO - Spectator API unavailable or player not in game
+2026-04-16 22:30:27,945 - ERROR - API key expired or insufficient permissions
+2026-04-16 22:30:27,947 - INFO - Spectator API unavailable or player not in game
+2026-04-16 22:32:31,721 - ERROR - API key expired or insufficient permissions
+2026-04-16 22:32:31,722 - INFO - Spectator API unavailable or player not in game
+2026-04-16 22:34:34,294 - ERROR - API key expired or insufficient permissions
+2026-04-16 22:34:34,295 - INFO - Spectator API unavailable or player not in game
+2026-04-16 22:36:36,887 - ERROR - API key expired or insufficient permissions
+2026-04-16 22:36:36,887 - INFO - Spectator API unavailable or player not in game
+2026-04-16 22:38:40,633 - ERROR - API key expired or insufficient permissions
+2026-04-16 22:38:40,634 - INFO - Spectator API unavailable or player not in game
+2026-04-16 22:40:43,164 - ERROR - API key expired or insufficient permissions
+2026-04-16 22:40:43,165 - INFO - Spectator API unavailable or player not in game
+2026-04-16 22:42:45,745 - ERROR - API key expired or insufficient permissions
+2026-04-16 22:42:45,746 - INFO - Spectator API unavailable or player not in game
+2026-04-16 22:44:49,536 - ERROR - API key expired or insufficient permissions
+2026-04-16 22:44:49,537 - INFO - Spectator API unavailable or player not in game
+2026-04-16 22:46:52,172 - ERROR - API key expired or insufficient permissions
+2026-04-16 22:46:52,173 - INFO - Spectator API unavailable or player not in game
+2026-04-16 22:48:54,764 - ERROR - API key expired or insufficient permissions
+2026-04-16 22:48:54,765 - INFO - Spectator API unavailable or player not in game
+2026-04-16 22:50:58,514 - ERROR - API key expired or insufficient permissions
+2026-04-16 22:50:58,516 - INFO - Spectator API unavailable or player not in game
+2026-04-16 22:53:01,189 - ERROR - API key expired or insufficient permissions
+2026-04-16 22:53:01,190 - INFO - Spectator API unavailable or player not in game
+2026-04-16 22:55:03,662 - ERROR - API key expired or insufficient permissions
+2026-04-16 22:55:03,664 - INFO - Spectator API unavailable or player not in game
+2026-04-16 22:57:07,492 - ERROR - API key expired or insufficient permissions
+2026-04-16 22:57:07,494 - INFO - Spectator API unavailable or player not in game
+2026-04-16 22:59:10,083 - ERROR - API key expired or insufficient permissions
+2026-04-16 22:59:10,084 - INFO - Spectator API unavailable or player not in game
+2026-04-16 23:01:12,647 - ERROR - API key expired or insufficient permissions
+2026-04-16 23:01:12,648 - INFO - Spectator API unavailable or player not in game
+2026-04-16 23:03:16,453 - ERROR - API key expired or insufficient permissions
+2026-04-16 23:03:16,454 - INFO - Spectator API unavailable or player not in game
+2026-04-16 23:05:19,040 - ERROR - API key expired or insufficient permissions
+2026-04-16 23:05:19,042 - INFO - Spectator API unavailable or player not in game
+2026-04-16 23:07:21,661 - ERROR - API key expired or insufficient permissions
+2026-04-16 23:07:21,662 - INFO - Spectator API unavailable or player not in game
+2026-04-16 23:09:25,389 - ERROR - API key expired or insufficient permissions
+2026-04-16 23:09:25,391 - INFO - Spectator API unavailable or player not in game
+2026-04-16 23:11:27,951 - ERROR - API key expired or insufficient permissions
+2026-04-16 23:11:27,952 - INFO - Spectator API unavailable or player not in game
+2026-04-16 23:13:30,560 - ERROR - API key expired or insufficient permissions
+2026-04-16 23:13:30,561 - INFO - Spectator API unavailable or player not in game
+2026-04-16 23:15:34,337 - ERROR - API key expired or insufficient permissions
+2026-04-16 23:15:34,338 - INFO - Spectator API unavailable or player not in game
+2026-04-16 23:17:36,957 - ERROR - API key expired or insufficient permissions
+2026-04-16 23:17:36,958 - INFO - Spectator API unavailable or player not in game
+2026-04-16 23:19:39,418 - ERROR - API key expired or insufficient permissions
+2026-04-16 23:19:39,420 - INFO - Spectator API unavailable or player not in game
+2026-04-16 23:21:43,224 - ERROR - API key expired or insufficient permissions
+2026-04-16 23:21:43,225 - INFO - Spectator API unavailable or player not in game
+2026-04-16 23:23:45,779 - ERROR - API key expired or insufficient permissions
+2026-04-16 23:23:45,780 - INFO - Spectator API unavailable or player not in game
+2026-04-16 23:25:48,355 - ERROR - API key expired or insufficient permissions
+2026-04-16 23:25:48,356 - INFO - Spectator API unavailable or player not in game
+2026-04-16 23:27:52,079 - ERROR - API key expired or insufficient permissions
+2026-04-16 23:27:52,080 - INFO - Spectator API unavailable or player not in game
+2026-04-16 23:29:54,697 - ERROR - API key expired or insufficient permissions
+2026-04-16 23:29:54,698 - INFO - Spectator API unavailable or player not in game
+2026-04-16 23:31:57,265 - ERROR - API key expired or insufficient permissions
+2026-04-16 23:31:57,266 - INFO - Spectator API unavailable or player not in game
+2026-04-16 23:34:01,097 - ERROR - API key expired or insufficient permissions
+2026-04-16 23:34:01,098 - INFO - Spectator API unavailable or player not in game
+2026-04-16 23:36:03,639 - ERROR - API key expired or insufficient permissions
+2026-04-16 23:36:03,640 - INFO - Spectator API unavailable or player not in game
+2026-04-16 23:38:06,198 - ERROR - API key expired or insufficient permissions
+2026-04-16 23:38:06,199 - INFO - Spectator API unavailable or player not in game
+2026-04-16 23:40:10,026 - ERROR - API key expired or insufficient permissions
+2026-04-16 23:40:10,027 - INFO - Spectator API unavailable or player not in game
+2026-04-16 23:42:12,477 - ERROR - API key expired or insufficient permissions
+2026-04-16 23:42:12,478 - INFO - Spectator API unavailable or player not in game
+2026-04-16 23:44:15,088 - ERROR - API key expired or insufficient permissions
+2026-04-16 23:44:15,089 - INFO - Spectator API unavailable or player not in game
+2026-04-16 23:46:18,878 - ERROR - API key expired or insufficient permissions
+2026-04-16 23:46:18,879 - INFO - Spectator API unavailable or player not in game
+2026-04-16 23:48:21,489 - ERROR - API key expired or insufficient permissions
+2026-04-16 23:48:21,490 - INFO - Spectator API unavailable or player not in game
+2026-04-16 23:50:24,068 - ERROR - API key expired or insufficient permissions
+2026-04-16 23:50:24,069 - INFO - Spectator API unavailable or player not in game
+2026-04-16 23:52:27,880 - ERROR - API key expired or insufficient permissions
+2026-04-16 23:52:27,882 - INFO - Spectator API unavailable or player not in game
+2026-04-16 23:54:30,458 - ERROR - API key expired or insufficient permissions
+2026-04-16 23:54:30,459 - INFO - Spectator API unavailable or player not in game
+2026-04-16 23:56:33,042 - ERROR - API key expired or insufficient permissions
+2026-04-16 23:56:33,044 - INFO - Spectator API unavailable or player not in game
+2026-04-16 23:58:36,819 - ERROR - API key expired or insufficient permissions
+2026-04-16 23:58:36,820 - INFO - Spectator API unavailable or player not in game
+2026-04-17 00:00:39,454 - ERROR - API key expired or insufficient permissions
+2026-04-17 00:00:39,455 - INFO - Spectator API unavailable or player not in game
+2026-04-17 00:02:42,037 - ERROR - API key expired or insufficient permissions
+2026-04-17 00:02:42,038 - INFO - Spectator API unavailable or player not in game
+2026-04-17 00:04:45,775 - ERROR - API key expired or insufficient permissions
+2026-04-17 00:04:45,776 - INFO - Spectator API unavailable or player not in game
+2026-04-17 00:06:48,352 - ERROR - API key expired or insufficient permissions
+2026-04-17 00:06:48,353 - INFO - Spectator API unavailable or player not in game
+2026-04-17 00:08:50,918 - ERROR - API key expired or insufficient permissions
+2026-04-17 00:08:50,920 - INFO - Spectator API unavailable or player not in game
+2026-04-17 00:10:54,712 - ERROR - API key expired or insufficient permissions
+2026-04-17 00:10:54,713 - INFO - Spectator API unavailable or player not in game
+2026-04-17 00:12:57,276 - ERROR - API key expired or insufficient permissions
+2026-04-17 00:12:57,277 - INFO - Spectator API unavailable or player not in game
+2026-04-17 00:14:59,816 - ERROR - API key expired or insufficient permissions
+2026-04-17 00:14:59,816 - INFO - Spectator API unavailable or player not in game
+2026-04-17 00:17:03,603 - ERROR - API key expired or insufficient permissions
+2026-04-17 00:17:03,604 - INFO - Spectator API unavailable or player not in game
+2026-04-17 00:19:06,180 - ERROR - API key expired or insufficient permissions
+2026-04-17 00:19:06,181 - INFO - Spectator API unavailable or player not in game
+2026-04-17 00:21:08,745 - ERROR - API key expired or insufficient permissions
+2026-04-17 00:21:08,746 - INFO - Spectator API unavailable or player not in game
+2026-04-17 00:23:12,509 - ERROR - API key expired or insufficient permissions
+2026-04-17 00:23:12,510 - INFO - Spectator API unavailable or player not in game
+2026-04-17 00:25:15,090 - ERROR - API key expired or insufficient permissions
+2026-04-17 00:25:15,091 - INFO - Spectator API unavailable or player not in game
+2026-04-17 00:27:17,604 - ERROR - API key expired or insufficient permissions
+2026-04-17 00:27:17,604 - INFO - Spectator API unavailable or player not in game
+2026-04-17 00:29:21,356 - ERROR - API key expired or insufficient permissions
+2026-04-17 00:29:21,357 - INFO - Spectator API unavailable or player not in game
+2026-04-17 00:31:24,082 - ERROR - API key expired or insufficient permissions
+2026-04-17 00:31:24,083 - INFO - Spectator API unavailable or player not in game
+2026-04-17 00:33:26,628 - ERROR - API key expired or insufficient permissions
+2026-04-17 00:33:26,628 - INFO - Spectator API unavailable or player not in game
+2026-04-17 00:35:30,392 - ERROR - API key expired or insufficient permissions
+2026-04-17 00:35:30,393 - INFO - Spectator API unavailable or player not in game
+2026-04-17 00:37:33,006 - ERROR - API key expired or insufficient permissions
+2026-04-17 00:37:33,007 - INFO - Spectator API unavailable or player not in game
+2026-04-17 00:39:35,604 - ERROR - API key expired or insufficient permissions
+2026-04-17 00:39:35,606 - INFO - Spectator API unavailable or player not in game
+2026-04-17 00:41:39,410 - ERROR - API key expired or insufficient permissions
+2026-04-17 00:41:39,411 - INFO - Spectator API unavailable or player not in game
+2026-04-17 00:43:41,939 - ERROR - API key expired or insufficient permissions
+2026-04-17 00:43:41,940 - INFO - Spectator API unavailable or player not in game
+2026-04-17 00:45:44,546 - ERROR - API key expired or insufficient permissions
+2026-04-17 00:45:44,547 - INFO - Spectator API unavailable or player not in game
+2026-04-17 00:47:48,272 - ERROR - API key expired or insufficient permissions
+2026-04-17 00:47:48,272 - INFO - Spectator API unavailable or player not in game
+2026-04-17 00:49:50,843 - ERROR - API key expired or insufficient permissions
+2026-04-17 00:49:50,843 - INFO - Spectator API unavailable or player not in game
+2026-04-17 00:51:53,410 - ERROR - API key expired or insufficient permissions
+2026-04-17 00:51:53,412 - INFO - Spectator API unavailable or player not in game
+2026-04-17 00:53:57,194 - ERROR - API key expired or insufficient permissions
+2026-04-17 00:53:57,195 - INFO - Spectator API unavailable or player not in game
+2026-04-17 00:55:59,796 - ERROR - API key expired or insufficient permissions
+2026-04-17 00:55:59,797 - INFO - Spectator API unavailable or player not in game
+2026-04-17 00:58:02,340 - ERROR - API key expired or insufficient permissions
+2026-04-17 00:58:02,341 - INFO - Spectator API unavailable or player not in game
+2026-04-17 01:00:06,122 - ERROR - API key expired or insufficient permissions
+2026-04-17 01:00:06,123 - INFO - Spectator API unavailable or player not in game
+2026-04-17 01:02:08,672 - ERROR - API key expired or insufficient permissions
+2026-04-17 01:02:08,673 - INFO - Spectator API unavailable or player not in game
+2026-04-17 01:04:11,201 - ERROR - API key expired or insufficient permissions
+2026-04-17 01:04:11,203 - INFO - Spectator API unavailable or player not in game
+2026-04-17 01:06:14,995 - ERROR - API key expired or insufficient permissions
+2026-04-17 01:06:14,996 - INFO - Spectator API unavailable or player not in game
+2026-04-17 01:08:17,539 - ERROR - API key expired or insufficient permissions
+2026-04-17 01:08:17,540 - INFO - Spectator API unavailable or player not in game
+2026-04-17 01:10:20,064 - ERROR - API key expired or insufficient permissions
+2026-04-17 01:10:20,066 - INFO - Spectator API unavailable or player not in game
+2026-04-17 01:12:23,862 - ERROR - API key expired or insufficient permissions
+2026-04-17 01:12:23,863 - INFO - Spectator API unavailable or player not in game
+2026-04-17 01:14:26,480 - ERROR - API key expired or insufficient permissions
+2026-04-17 01:14:26,481 - INFO - Spectator API unavailable or player not in game
+2026-04-17 01:16:28,958 - ERROR - API key expired or insufficient permissions
+2026-04-17 01:16:28,959 - INFO - Spectator API unavailable or player not in game
+2026-04-17 01:18:32,755 - ERROR - API key expired or insufficient permissions
+2026-04-17 01:18:32,756 - INFO - Spectator API unavailable or player not in game
+2026-04-17 01:20:35,192 - ERROR - API key expired or insufficient permissions
+2026-04-17 01:20:35,193 - INFO - Spectator API unavailable or player not in game
+2026-04-17 01:22:37,731 - ERROR - API key expired or insufficient permissions
+2026-04-17 01:22:37,732 - INFO - Spectator API unavailable or player not in game
+2026-04-17 01:24:41,477 - ERROR - API key expired or insufficient permissions
+2026-04-17 01:24:41,478 - INFO - Spectator API unavailable or player not in game
+2026-04-17 01:26:44,019 - ERROR - API key expired or insufficient permissions
+2026-04-17 01:26:44,020 - INFO - Spectator API unavailable or player not in game
+2026-04-17 01:28:46,590 - ERROR - API key expired or insufficient permissions
+2026-04-17 01:28:46,592 - INFO - Spectator API unavailable or player not in game
+2026-04-17 01:30:50,365 - ERROR - API key expired or insufficient permissions
+2026-04-17 01:30:50,366 - INFO - Spectator API unavailable or player not in game
+2026-04-17 01:32:52,962 - ERROR - API key expired or insufficient permissions
+2026-04-17 01:32:52,963 - INFO - Spectator API unavailable or player not in game
+2026-04-17 01:34:55,468 - ERROR - API key expired or insufficient permissions
+2026-04-17 01:34:55,469 - INFO - Spectator API unavailable or player not in game
+2026-04-17 01:36:59,213 - ERROR - API key expired or insufficient permissions
+2026-04-17 01:36:59,215 - INFO - Spectator API unavailable or player not in game
+2026-04-17 01:39:01,758 - ERROR - API key expired or insufficient permissions
+2026-04-17 01:39:01,759 - INFO - Spectator API unavailable or player not in game
+2026-04-17 01:41:04,316 - ERROR - API key expired or insufficient permissions
+2026-04-17 01:41:04,317 - INFO - Spectator API unavailable or player not in game
+2026-04-17 01:43:08,057 - ERROR - API key expired or insufficient permissions
+2026-04-17 01:43:08,058 - INFO - Spectator API unavailable or player not in game
+2026-04-17 01:45:10,647 - ERROR - API key expired or insufficient permissions
+2026-04-17 01:45:10,648 - INFO - Spectator API unavailable or player not in game
+2026-04-17 01:47:13,213 - ERROR - API key expired or insufficient permissions
+2026-04-17 01:47:13,214 - INFO - Spectator API unavailable or player not in game
+2026-04-17 01:49:16,960 - ERROR - API key expired or insufficient permissions
+2026-04-17 01:49:16,961 - INFO - Spectator API unavailable or player not in game
+2026-04-17 01:51:19,548 - ERROR - API key expired or insufficient permissions
+2026-04-17 01:51:19,549 - INFO - Spectator API unavailable or player not in game
+2026-04-17 01:53:22,125 - ERROR - API key expired or insufficient permissions
+2026-04-17 01:53:22,126 - INFO - Spectator API unavailable or player not in game
+2026-04-17 01:55:25,866 - ERROR - API key expired or insufficient permissions
+2026-04-17 01:55:25,867 - INFO - Spectator API unavailable or player not in game
+2026-04-17 01:57:28,468 - ERROR - API key expired or insufficient permissions
+2026-04-17 01:57:28,468 - INFO - Spectator API unavailable or player not in game
+2026-04-17 01:59:31,025 - ERROR - API key expired or insufficient permissions
+2026-04-17 01:59:31,027 - INFO - Spectator API unavailable or player not in game
+2026-04-17 02:01:34,753 - ERROR - API key expired or insufficient permissions
+2026-04-17 02:01:34,754 - INFO - Spectator API unavailable or player not in game
+2026-04-17 02:03:37,319 - ERROR - API key expired or insufficient permissions
+2026-04-17 02:03:37,319 - INFO - Spectator API unavailable or player not in game
+2026-04-17 02:05:39,894 - ERROR - API key expired or insufficient permissions
+2026-04-17 02:05:39,895 - INFO - Spectator API unavailable or player not in game
+2026-04-17 02:07:43,688 - ERROR - API key expired or insufficient permissions
+2026-04-17 02:07:43,688 - INFO - Spectator API unavailable or player not in game
+2026-04-17 02:09:46,303 - ERROR - API key expired or insufficient permissions
+2026-04-17 02:09:46,306 - INFO - Spectator API unavailable or player not in game
+2026-04-17 02:11:48,871 - ERROR - API key expired or insufficient permissions
+2026-04-17 02:11:48,872 - INFO - Spectator API unavailable or player not in game
+2026-04-17 02:13:52,581 - ERROR - API key expired or insufficient permissions
+2026-04-17 02:13:52,582 - INFO - Spectator API unavailable or player not in game
+2026-04-17 02:15:55,116 - ERROR - API key expired or insufficient permissions
+2026-04-17 02:15:55,117 - INFO - Spectator API unavailable or player not in game
+2026-04-17 02:17:58,736 - ERROR - API key expired or insufficient permissions
+2026-04-17 02:17:58,737 - INFO - Spectator API unavailable or player not in game
+2026-04-17 02:20:01,394 - ERROR - API key expired or insufficient permissions
+2026-04-17 02:20:01,395 - INFO - Spectator API unavailable or player not in game
+2026-04-17 02:22:03,959 - ERROR - API key expired or insufficient permissions
+2026-04-17 02:22:03,960 - INFO - Spectator API unavailable or player not in game
+2026-04-17 02:24:06,534 - ERROR - API key expired or insufficient permissions
+2026-04-17 02:24:06,536 - INFO - Spectator API unavailable or player not in game
+2026-04-17 02:26:10,266 - ERROR - API key expired or insufficient permissions
+2026-04-17 02:26:10,267 - INFO - Spectator API unavailable or player not in game
+2026-04-17 02:28:12,778 - ERROR - API key expired or insufficient permissions
+2026-04-17 02:28:12,780 - INFO - Spectator API unavailable or player not in game
+2026-04-17 02:30:15,353 - ERROR - API key expired or insufficient permissions
+2026-04-17 02:30:15,355 - INFO - Spectator API unavailable or player not in game
+2026-04-17 02:32:19,159 - ERROR - API key expired or insufficient permissions
+2026-04-17 02:32:19,160 - INFO - Spectator API unavailable or player not in game
+2026-04-17 02:34:21,660 - ERROR - API key expired or insufficient permissions
+2026-04-17 02:34:21,661 - INFO - Spectator API unavailable or player not in game
+2026-04-17 02:36:24,250 - ERROR - API key expired or insufficient permissions
+2026-04-17 02:36:24,251 - INFO - Spectator API unavailable or player not in game
+2026-04-17 02:38:28,022 - ERROR - API key expired or insufficient permissions
+2026-04-17 02:38:28,024 - INFO - Spectator API unavailable or player not in game
+2026-04-17 02:40:30,557 - ERROR - API key expired or insufficient permissions
+2026-04-17 02:40:30,559 - INFO - Spectator API unavailable or player not in game
+2026-04-17 02:42:33,126 - ERROR - API key expired or insufficient permissions
+2026-04-17 02:42:33,128 - INFO - Spectator API unavailable or player not in game
+2026-04-17 02:44:36,881 - ERROR - API key expired or insufficient permissions
+2026-04-17 02:44:36,882 - INFO - Spectator API unavailable or player not in game
+2026-04-17 02:46:39,388 - ERROR - API key expired or insufficient permissions
+2026-04-17 02:46:39,389 - INFO - Spectator API unavailable or player not in game
+2026-04-17 02:48:41,961 - ERROR - API key expired or insufficient permissions
+2026-04-17 02:48:41,962 - INFO - Spectator API unavailable or player not in game
+2026-04-17 02:50:45,744 - ERROR - API key expired or insufficient permissions
+2026-04-17 02:50:45,745 - INFO - Spectator API unavailable or player not in game
+2026-04-17 02:52:48,262 - ERROR - API key expired or insufficient permissions
+2026-04-17 02:52:48,263 - INFO - Spectator API unavailable or player not in game
+2026-04-17 02:54:50,802 - ERROR - API key expired or insufficient permissions
+2026-04-17 02:54:50,803 - INFO - Spectator API unavailable or player not in game
+2026-04-17 02:56:54,574 - ERROR - API key expired or insufficient permissions
+2026-04-17 02:56:54,576 - INFO - Spectator API unavailable or player not in game
+2026-04-17 02:58:57,101 - ERROR - API key expired or insufficient permissions
+2026-04-17 02:58:57,102 - INFO - Spectator API unavailable or player not in game
+2026-04-17 03:00:59,608 - ERROR - API key expired or insufficient permissions
+2026-04-17 03:00:59,609 - INFO - Spectator API unavailable or player not in game
+2026-04-17 03:03:03,372 - ERROR - API key expired or insufficient permissions
+2026-04-17 03:03:03,372 - INFO - Spectator API unavailable or player not in game
+2026-04-17 03:05:05,895 - ERROR - API key expired or insufficient permissions
+2026-04-17 03:05:05,896 - INFO - Spectator API unavailable or player not in game
+2026-04-17 03:07:08,462 - ERROR - API key expired or insufficient permissions
+2026-04-17 03:07:08,463 - INFO - Spectator API unavailable or player not in game
+2026-04-17 03:09:12,187 - ERROR - API key expired or insufficient permissions
+2026-04-17 03:09:12,188 - INFO - Spectator API unavailable or player not in game
+2026-04-17 03:11:14,813 - ERROR - API key expired or insufficient permissions
+2026-04-17 03:11:14,814 - INFO - Spectator API unavailable or player not in game
+2026-04-17 03:13:17,372 - ERROR - API key expired or insufficient permissions
+2026-04-17 03:13:17,373 - INFO - Spectator API unavailable or player not in game
+2026-04-17 03:15:16,039 - INFO - Match cache file does not exist, will create new one
+2026-04-17 03:15:21,106 - ERROR - API key expired or insufficient permissions
+2026-04-17 03:15:21,107 - INFO - Spectator API unavailable or player not in game
+2026-04-17 03:15:24,681 - INFO - Match cache file does not exist, will create new one
+2026-04-17 03:16:18,582 - INFO - Match cache file does not exist, will create new one
+2026-04-17 03:17:23,651 - ERROR - API key expired or insufficient permissions
+2026-04-17 03:17:23,652 - INFO - Spectator API unavailable or player not in game
+2026-04-17 03:19:26,290 - ERROR - API key expired or insufficient permissions
+2026-04-17 03:19:26,291 - INFO - Spectator API unavailable or player not in game
+2026-04-17 03:21:30,141 - ERROR - API key expired or insufficient permissions
+2026-04-17 03:21:30,143 - INFO - Spectator API unavailable or player not in game
+2026-04-17 03:23:32,644 - ERROR - API key expired or insufficient permissions
+2026-04-17 03:23:32,645 - INFO - Spectator API unavailable or player not in game
+2026-04-17 03:25:35,196 - ERROR - API key expired or insufficient permissions
+2026-04-17 03:25:35,198 - INFO - Spectator API unavailable or player not in game
+2026-04-17 03:27:38,950 - ERROR - API key expired or insufficient permissions
+2026-04-17 03:27:38,950 - INFO - Spectator API unavailable or player not in game
+2026-04-17 03:29:41,572 - ERROR - API key expired or insufficient permissions
+2026-04-17 03:29:41,574 - INFO - Spectator API unavailable or player not in game
+2026-04-17 03:31:44,103 - ERROR - API key expired or insufficient permissions
+2026-04-17 03:31:44,104 - INFO - Spectator API unavailable or player not in game
+2026-04-17 03:33:47,967 - ERROR - API key expired or insufficient permissions
+2026-04-17 03:33:47,968 - INFO - Spectator API unavailable or player not in game
+2026-04-17 03:35:50,503 - ERROR - API key expired or insufficient permissions
+2026-04-17 03:35:50,504 - INFO - Spectator API unavailable or player not in game
+2026-04-17 03:37:53,028 - ERROR - API key expired or insufficient permissions
+2026-04-17 03:37:53,029 - INFO - Spectator API unavailable or player not in game
+2026-04-17 03:39:56,836 - ERROR - API key expired or insufficient permissions
+2026-04-17 03:39:56,837 - INFO - Spectator API unavailable or player not in game
+2026-04-17 03:41:59,379 - ERROR - API key expired or insufficient permissions
+2026-04-17 03:41:59,380 - INFO - Spectator API unavailable or player not in game
+2026-04-17 03:44:01,994 - ERROR - API key expired or insufficient permissions
+2026-04-17 03:44:01,995 - INFO - Spectator API unavailable or player not in game
+2026-04-17 03:46:05,703 - ERROR - API key expired or insufficient permissions
+2026-04-17 03:46:05,704 - INFO - Spectator API unavailable or player not in game
+2026-04-17 03:48:08,344 - ERROR - API key expired or insufficient permissions
+2026-04-17 03:48:08,345 - INFO - Spectator API unavailable or player not in game
+2026-04-17 03:50:37,406 - INFO - Configuration loaded from file
+2026-04-17 03:50:39,778 - INFO - Successfully logged onto Twitch WS: ireliaig99
+2026-04-17 03:50:39,975 - INFO - Successfully retrieved PUUID for DontTalkToHumans#RPG
+2026-04-17 03:51:02,847 - WARNING - Rate limit reached, waiting 97.0 seconds
+2026-04-17 03:53:03,786 - WARNING - Rate limit reached, waiting 96.0 seconds
